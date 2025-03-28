@@ -8,11 +8,11 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/cristianmesquida
-      - icon: fa-book
-        text: "Google Scholar"
+      - icon: graduation-cap
         href: https://scholar.google.com/citations?user=Ez2ftwgAAAAJ&hl=en&oi=ao
+      - icon: orcid
+        href: https://orcid.org/0000-0002-1542-8355
       - icon: fa-envelope
-        text: "Email"
         href: "mailto:c.mesquida.caldentey@tue.nl"
         
 
