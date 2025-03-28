@@ -1,13 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Do sports scientsits know the hypothesis they are testing?"
+author: "Cristian Mesquida"
 date: "2025-03-28"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+To be continued
