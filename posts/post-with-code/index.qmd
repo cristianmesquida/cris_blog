@@ -1,9 +1,8 @@
 ---
 title: "Do sports scientsits know the hypothesis they are testing?"
-author: "Cristian Mesquida"
 date: "2025-03-28"
-categories: [news, code, analysis]
+categories: [hypothesis testing]
 image: "image.jpg"
 ---
 
-To be continued
+To be continued...

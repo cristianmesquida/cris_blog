@@ -6,9 +6,9 @@ about:
   links:
     - icon: github
       href: https://github.com/cristianmesquida
-    - icon: graduation-cap
+    - icon: fa-graduation-cap
       href: https://scholar.google.com/citations?user=Ez2ftwgAAAAJ&hl=en&oi=ao
-    - icon: orcid
+    - icon: fa-orcid
       href: https://orcid.org/0000-0002-1542-8355
     - icon: fa-envelope
       href: "mailto:c.mesquida.caldentey@tue.nl"
