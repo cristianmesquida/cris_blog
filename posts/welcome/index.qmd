@@ -4,4 +4,4 @@ date: "2025-03-25"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This blog website is currently under construction as I am busy finishing up my PhD thesis. This blog will feature content on a range of topics, including sports and exercise science research, methods and statistics, and metascience.
