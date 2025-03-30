@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistically [un]fit",
     "section": "",
-    "text": "I am currently a Postdoctoral researcher at Eindhoven University of Technology, where I do meta-science and teach quantitative research methods in psychology. My current work involves working with Daniël Lakens and Lisa Debruine on Papercheck, an R package designed to assist researchers in preventing common errors, enforcing best research practices, and extracting data from published studies."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!"
+    "text": "Do sports scientsits know the hypothesis they are testing?\n\n\n\n\n\n\nhypothesis testing\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 25, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -21,10 +14,17 @@
     "text": "To be continued…"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistically [un]fit",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Do sports scientsits know the hypothesis they are testing?\n\n\n\n\n\n\nhypothesis testing\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 25, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Soon I will be submitting my PhD thesis which focused on the replicability and reproducibility of sports and exercise science research. I am currently a Postdoctoral researcher at Eindhoven University of Technology, where I do meta-science and teach quantitative research methods in psychology. My current work involves working with Daniël Lakens and Lisa Debruine on Papercheck, an R package designed to assist researchers in preventing common errors, enforcing best research practices, and extracting data from published studies. In the upcoming academic year, I will be teaching quantitative research methods in psychology."
   }
 ]

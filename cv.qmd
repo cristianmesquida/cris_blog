@@ -1,0 +1,12 @@
+---
+title: "CV"
+format: html
+execute:
+  echo: false
+---
+
+```{=html}
+<script>
+  window.location.href = "cv.pdf";
+</script>
+```
