@@ -1,0 +1,115 @@
+---
+name: Cristian Mesquida
+position: "Postdoctoral Researcher"
+address: "Eindhoven University of Technology, The Netherlands"
+phone: +34 610 03 85 25 
+email: "c.mesquida.caldentey@tue.nl"
+github: "cristianmesquida"
+googlescholar: "Cristian Mesquida"
+date: "`r format(Sys.time(), '%B %Y')`"
+output:
+  vitae::awesomecv:
+    page_total: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+# Load packages
+library(vitae)
+library(readxl)
+library(dplyr)
+
+# Create function to read sheets 
+readExcelsheets <- function(filename){
+  
+  all <- readxl::excel_sheets(filename)
+  
+  list <- lapply(all, function(x) readxl::read_excel(filename, sheet = x))
+  
+  names(list) <- all
+  
+  list2env(list, envir = .GlobalEnv)
+}
+
+# read cv file
+filename <- "cv.xlsx"
+readExcelsheets(filename)
+```
+
+# Employment
+
+```{r}
+employment %>%
+  detailed_entries(what = employment, 
+                   when = year, 
+                   with = institution, 
+                   where = country,
+                   why = details)
+```
+
+# Education
+
+```{r}
+education %>%
+  detailed_entries(what = degree, 
+                   when = year, 
+                   with = institution, 
+                   where = country,
+                   why = details)
+```
+
+# Publications
+
+```{r}
+bibliography_entries("my_papers.bib") %>%
+  arrange(desc(issued))
+```
+
+# Teaching Experience
+
+```{r}
+
+teaching %>%
+  detailed_entries(what = role, 
+                   when = year, 
+                   with = institution, 
+                   why = details)
+
+```
+
+# Research experience
+
+```{r}
+research_experience %>%
+  detailed_entries(what = position, 
+                   when = year, 
+                   with = institution, 
+                   where = country,
+                   why = details)
+```
+
+# Talks
+
+```{r}
+talks %>%
+  detailed_entries(what = event, 
+                   when = year, 
+                   with = institution,
+                   why = details)
+```
+
+# Grants
+
+```{r}
+grants %>%
+  detailed_entries(what = grant, 
+                   when = year, 
+                   with = institution,
+                   why = details)
+```
+
+```{r, include=FALSE}
+# save cv.pdf in a second location
+file.copy("cv.pdf", "~/Dropbox/cris_blog/_site/cv.pdf", overwrite = TRUE)
+```

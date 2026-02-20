@@ -7,6 +7,6 @@ execute:
 
 ```{=html}
 <script>
-  window.location.href = "cv.pdf";
+  window.location.href = "cv/cv.pdf";
 </script>
 ```

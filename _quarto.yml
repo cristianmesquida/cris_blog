@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   resources:
       - cv.pdf
 website:
@@ -22,6 +23,4 @@ format:
       - cosmo
       - brand
     css: styles.css
-
-editor: visual
 
