@@ -78,6 +78,18 @@ teaching %>%
 
 ```
 
+# Supervision
+
+```{r}
+
+supervision %>%
+  detailed_entries(what = role, 
+                   when = year, 
+                   with = institution, 
+                   why = details)
+
+```
+
 # Research experience
 
 ```{r}

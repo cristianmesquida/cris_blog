@@ -1,0 +1,15 @@
+---
+title: "Talks"
+format: html
+---
+
+[Research waste in sports and exercise science](https://github.com/cristianmesquida/ethical_research). Metascience series, Charles Sturt University (2025).
+
+[The benefits of preregistration and Registered Reports when conducting confirmatory studies](https://osf.io/tveh8/overview). Danish Reproducibility Network (2025)
+
+[The benefits of preregistration and Registered Reports when conducting confirmatory studies](https://osf.io/tveh8/overview). Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025)
+
+# Workshops
+
+[Introduction to Metacheck](https://github.com/cristianmesquida/introduction_to_metacheck). Open Research Summer School, King’s College London (2025)
+

@@ -6,8 +6,11 @@ project:
 website:
   title: "Cristian Mesquida"
   navbar:
+    left:
+      - talks.qmd
+      - teaching.qmd
+      - blog.qmd
     right:
-      - about.qmd
       - cv.qmd
       - icon: github
         href: https://github.com/cristianmesquida

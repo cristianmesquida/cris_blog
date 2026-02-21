@@ -2,7 +2,6 @@
 title: "Do sports scientsits know the hypothesis they are testing?"
 date: today
 categories: [hypothesis testing]
-image: "image.jpg"
 ---
 
 To be continued...

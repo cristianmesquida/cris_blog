@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Statistically [un]fit",
+    "title": "Cristian Mesquida",
     "section": "",
-    "text": "Do sports scientsits know the hypothesis they are testing?\n\n\n\n\n\n\nhypothesis testing\n\n\n\n\n\n\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "I defended my PhD on January 8th, with a dissertation examining the replicability and reproducibility of research in sports and exercise science. I am currently a Postdoctoral Researcher at Eindhoven University of Technology, where I conduct meta-science research. My current work focuses on Metacheck, an R package designed to help researchers prevent common statistical and reporting errors, promote best research practices, and extract data from published studies. I collaborate on this project with Daniël Lakens and Lisa DeBruine. My main responsibility is the development of the power analysis module and the validation of all Metacheck modules. In addition to my research, I teach quantitative research methods, including multiple regression, power analysis, and meta-analysis."
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,26 @@
     "title": "Employment",
     "section": "",
     "text": "Employment\n\n\n# A tibble: 2 × 5\n  what                    when         with                          where why  \n  &lt;chr&gt;                   &lt;chr&gt;        &lt;chr&gt;                         &lt;chr&gt; &lt;lis&gt;\n1 Postdoctoral researcher 2025-Present Eindhoven University of Tech… Eind… &lt;chr&gt;\n2 PhD candidate           2021-2025    Eindhoven University of Tech… Eind… &lt;chr&gt;\n\n\n\n\nEducation\n\n\n# A tibble: 4 × 5\n  what                                         when      with        where why  \n  &lt;chr&gt;                                        &lt;chr&gt;     &lt;chr&gt;       &lt;chr&gt; &lt;lis&gt;\n1 PhD                                          2021-2025 Eindhoven … Eind… &lt;chr&gt;\n2 MSc. Integrative Physiology                  2017-2019 University… Barc… &lt;chr&gt;\n3 MSc. Research in Sport and Physical Activity 2015-2017 University… Gran… &lt;chr&gt;\n4 BSc. Sports and Exercise Science             2009-2013 University… Vic,… &lt;chr&gt;\n\n\n\n\nPublications\n\n\n\n\n\n\n\n\n\nTeaching Experience\n\n\n# A tibble: 8 × 5\n  what                                                   when  with  where why  \n  &lt;chr&gt;                                                  &lt;chr&gt; &lt;chr&gt; &lt;chr&gt; &lt;lis&gt;\n1 Lecturer of Behaveoral Research Methods 2              2025… Eind… &lt;NA&gt;  &lt;chr&gt;\n2 Supervisor of Bachelor End Project                     2025  Eind… &lt;NA&gt;  &lt;chr&gt;\n3 Lecturer of Introduction to Meta-analysis              2024… Eind… &lt;NA&gt;  &lt;chr&gt;\n4 Teaching assistant of  of Behaveoral Research Methods… 2024  Eind… &lt;NA&gt;  &lt;chr&gt;\n5 Teaching assistant of Advanced Data Analysis           2024  Eind… &lt;NA&gt;  &lt;chr&gt;\n6 Supervisor of a Master's thesis                        2024  Eind… &lt;NA&gt;  &lt;chr&gt;\n7 Supervisor of Bachelor End Project                     2023  Eind… &lt;NA&gt;  &lt;chr&gt;\n8 Teaching Assistant of Applied Exercise Physiology      2021  Tech… &lt;NA&gt;  &lt;chr&gt;\n\n\n\n\nResearch experience\n\n\n# A tibble: 3 × 5\n  what                         when      with                        where why  \n  &lt;chr&gt;                        &lt;chr&gt;     &lt;chr&gt;                       &lt;chr&gt; &lt;lis&gt;\n1 Research internship (unpaid) 2018      Norwegian School of Sports… Norw… &lt;chr&gt;\n2 Research internship (unpaid) 2017      Inland Norway University o… Norw… &lt;chr&gt;\n3 Research internship (unpaid) 2015-2016 Universiry of Granada       Spain &lt;chr&gt;\n\n\n\n\nTalks\n\n\n# A tibble: 8 × 5\n  what                                          when      with       where why  \n  &lt;chr&gt;                                         &lt;chr&gt;     &lt;chr&gt;      &lt;chr&gt; &lt;lis&gt;\n1 Metascience Series                            2025      Charles S… &lt;NA&gt;  &lt;chr&gt;\n2 Workshop on Papercheck                        2025      Open Rese… &lt;NA&gt;  &lt;chr&gt;\n3 Danish Reproducibility Network meetup         2025      Danish Re… &lt;NA&gt;  &lt;chr&gt;\n4 Lunch meetup for the Open Science Community   2025      Eindhoven… &lt;NA&gt;  &lt;chr&gt;\n5 NLRN Pre-Symposium for Young Meta-Scientists  2024      Universit… &lt;NA&gt;  &lt;chr&gt;\n6 Paul Meehl Graduate School PhD Day Conference 2024      Eindhoven… &lt;NA&gt;  &lt;chr&gt;\n7 Workshop on endurance performance             2021-2023 Setanta C… &lt;NA&gt;  &lt;chr&gt;\n8 Workshop on 1080 Sprint resistance device     2019      Kumming H… &lt;NA&gt;  &lt;chr&gt;\n\n\n\n\nGrants\n\n\n# A tibble: 1 × 5\n  what                                  when with                    where why  \n  &lt;chr&gt;                                &lt;dbl&gt; &lt;chr&gt;                   &lt;chr&gt; &lt;lis&gt;\n1 IE&IS ESA Education Innovation Grant  2024 Eindhoven University o… &lt;NA&gt;  &lt;chr&gt;"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Do sports scientsits know the hypothesis they are testing?\n\n\n\n\n\n\nhypothesis testing\n\n\n\n\n\n\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 20, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to multiple regression\nIntroduction to power analysis\nIntroduction to meta-analysis"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Research waste in sports and exercise science. Metascience series, Charles Sturt University (2025).\nIntroduction to Metacheck. Open Research Summer School, King’s College London (2025)\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies Danish Reproducibility Network (2025)\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025)"
   }
 ]

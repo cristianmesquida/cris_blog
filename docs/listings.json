@@ -5,5 +5,20 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/multiple_regression.html",
+      "/teaching/power_analysis.html",
+      "/teaching/intro_meta-analysis.html"
+    ]
   }
 ]
