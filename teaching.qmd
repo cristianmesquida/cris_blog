@@ -4,7 +4,7 @@ title: "Teaching"
 
 [Introduction to multiple regression](https://cristianmesquida.github.io/multiple_regression/). Three lectures forming part of the course Behavioural Research Methods at Eindhoven University of Technology.
 
-[Introduction to power analysis](https://cristianmesquida.github.io/doing_power_analysis/) One lecture forming part of the course Behavioural Research Methods 2 at Eindhoven University of Technology.
+[Introduction to power analysis](https://cristianmesquida.github.io/doing_power_analysis/). One lecture forming part of the course Behavioural Research Methods 2 at Eindhoven University of Technology.
 
 [Introduction to meta-analysis](https://github.com/cristianmesquida/introduction_to_meta-analysis). One lecture forming part of the course Metascience at Eindhoven University of Technology.
 
