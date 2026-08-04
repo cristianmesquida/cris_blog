@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
       - cv.pdf
+
 website:
   title: "Cristian Mesquida"
   navbar:
@@ -10,6 +11,7 @@ website:
       - talks.qmd
       - teaching.qmd
       - blog.qmd
+
     right:
       - cv.qmd
       - icon: github

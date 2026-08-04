@@ -41,9 +41,9 @@ readExcelsheets(filename)
 
 ```{r}
 employment %>%
-  detailed_entries(what = employment, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution, 
+                   with = employment, 
                    where = country,
                    why = details)
 ```
@@ -52,9 +52,9 @@ employment %>%
 
 ```{r}
 education %>%
-  detailed_entries(what = degree, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution, 
+                   with = degree, 
                    where = country,
                    why = details)
 ```
@@ -71,9 +71,9 @@ bibliography_entries("my_papers.bib") %>%
 ```{r}
 
 teaching %>%
-  detailed_entries(what = role, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution, 
+                   with = role, 
                    why = details)
 
 ```
@@ -83,9 +83,9 @@ teaching %>%
 ```{r}
 
 supervision %>%
-  detailed_entries(what = role, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution, 
+                   with = role, 
                    why = details)
 
 ```
@@ -94,9 +94,9 @@ supervision %>%
 
 ```{r}
 research_experience %>%
-  detailed_entries(what = position, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution, 
+                   with = position, 
                    where = country,
                    why = details)
 ```
@@ -105,9 +105,9 @@ research_experience %>%
 
 ```{r}
 talks %>%
-  detailed_entries(what = event, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution,
+                   with = event,
                    why = details)
 ```
 
@@ -115,9 +115,9 @@ talks %>%
 
 ```{r}
 grants %>%
-  detailed_entries(what = grant, 
+  detailed_entries(what = institution, 
                    when = year, 
-                   with = institution,
+                   with = grant,
                    why = details)
 ```
 

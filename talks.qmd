@@ -2,6 +2,9 @@
 title: "Talks"
 format: html
 ---
+[From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences](https://cristianmesquida.github.io/metascience_symposium_oslo/#/title-slide). ONH Metascience Symposium, Oslo Nye Høyskole (2026).
+
+[Introduction to Metacheck](https://cristianmesquida.github.io/technology_tue_conference_talk/#/title-slide). Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).
 
 [Research waste in sports and exercise science](https://github.com/cristianmesquida/ethical_research). Metascience series, Charles Sturt University (2025).
 
@@ -10,6 +13,8 @@ format: html
 [The benefits of preregistration and Registered Reports when conducting confirmatory studies](https://osf.io/tveh8/overview). Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).
 
 # Workshops
+
+[Power analysis for sample size justification approach](https://cristianmesquida.github.io/power-analysis_workshop/). University of Vic, Barcelona (2026). 
 
 [Introduction to Metacheck](https://github.com/cristianmesquida/introduction_to_metacheck). Open Research Summer School, King’s College London (2025).
 

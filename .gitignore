@@ -7,3 +7,5 @@
 interaction_diagnostics.qmd
 
 /.quarto/
+
+**/*.quarto_ipynb
