@@ -4,7 +4,7 @@ position: "Postdoctoral Researcher"
 address: "Eindhoven University of Technology, The Netherlands"
 phone: +34 610 03 85 25 
 email: "c.mesquida.caldentey@tue.nl"
-homepage: "https://cristianmesquida.github.io/cris_blog/"
+www: "cristianmesquida.github.io/cris_blog"
 github: "cristianmesquida"
 googlescholar: "Cristian Mesquida"
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -14,7 +14,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, results = "asis")
 
 # Load packages
 library(vitae)
@@ -64,6 +64,13 @@ education %>%
 
 ```{r}
 bibliography_entries("my_papers.bib") %>%
+  arrange(desc(issued))
+```
+
+# Preprints
+
+```{r}
+bibliography_entries("my_preprints.bib") %>%
   arrange(desc(issued))
 ```
 

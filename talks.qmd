@@ -2,19 +2,62 @@
 title: "Talks"
 format: html
 ---
-[From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences](https://cristianmesquida.github.io/metascience_symposium_oslo/#/title-slide). ONH Metascience Symposium, Oslo Nye Høyskole (2026).
+- **From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**. ONH Metascience Symposium, Oslo Nye Høyskole (2026).
 
-[Introduction to Metacheck](https://cristianmesquida.github.io/technology_tue_conference_talk/#/title-slide). Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).
+<a class="resource-btn" href="https://cristianmesquida.github.io/metascience_symposium_oslo/#/title-slide">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
 
-[Research waste in sports and exercise science](https://github.com/cristianmesquida/ethical_research). Metascience series, Charles Sturt University (2025).
+- **Introduction to Metacheck**. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).
 
-[The benefits of preregistration and Registered Reports when conducting confirmatory studies](https://osf.io/tveh8/overview). Danish Reproducibility Network (2025).
+<a class="resource-btn" href="https://cristianmesquida.github.io/technology_tue_conference_talk/#/title-slide">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
 
-[The benefits of preregistration and Registered Reports when conducting confirmatory studies](https://osf.io/tveh8/overview). Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).
+- **Research waste in sports and exercise science**. Metascience series, Charles Sturt University (2025).
+
+<a class="resource-btn" href="https://github.com/cristianmesquida/ethical_research">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+- **The benefits of preregistration and Registered Reports when conducting confirmatory studies**. Danish Reproducibility Network (2025).
+
+<a class="resource-btn" href="https://osf.io/tveh8/overview">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+- **The benefits of preregistration and Registered Reports when conducting confirmatory studies**. Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).
+
+<a class="resource-btn" href="https://osf.io/tveh8/overview">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
 
 # Workshops
 
-[Power analysis for sample size justification approach](https://cristianmesquida.github.io/power-analysis_workshop/). University of Vic, Barcelona (2026). 
+- **Power analysis for sample size justification approach**. University of Vic, Barcelona (2026). 
 
-[Introduction to Metacheck](https://github.com/cristianmesquida/introduction_to_metacheck). Open Research Summer School, King’s College London (2025).
+<div class="resource-links">
+
+<a class="resource-btn" href="https://cristianmesquida.github.io/power-analysis_workshop/">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+<a class="resource-btn" href="https://cristianmesquida.github.io/power-analysis_workshop/">
+  <i class="fa-solid fa-folder-open"></i> Materials
+</a>
+
+ <a class="resource-btn" href="https://github.com/cristianmesquida/power-analysis_workshop">
+    <i class="fa-brands fa-github"></i> GitHub
+  </a>
+  
+</div>
+
+- **Introduction to Metacheck**. Open Research Summer School, King’s College London (2025).
+
+  <a class="resource-btn" href="https://github.com/cristianmesquida/introduction_to_metacheck">
+    <i class="fa-brands fa-github"></i> GitHub
+  </a>
+
+
+
 

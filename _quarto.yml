@@ -16,16 +16,24 @@ website:
       - cv.qmd
       - icon: github
         href: https://github.com/cristianmesquida
+        target: _blank # opens link (or page) in a new browser tab
       - text: "<img src='https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg' style='height:20px;'>"
         href: https://scholar.google.com/citations?user=Ez2ftwgAAAAJ&hl=en&oi=ao
+        target: _blank # opens link (or page) in a new browser tab
       - icon: envelope
         href: "mailto:c.mesquida.caldentey@tue.nl"
+        target: _blank # opens link (or page) in a new browser tab
         
+page-footer:
+    background: light # or `dark` or omit this option altogether (footer color will match page body color)
+    left: Copyright 2025, Samantha Shanny-Csik
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
         
 format:
   html:
     theme:
-      - cosmo
+      - solar
       - brand
     css: styles.css
 

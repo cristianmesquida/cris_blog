@@ -2,34 +2,67 @@
 title: "Teaching"
 ---
 
-Currently I teach in three courses at Eindhoven University of Technology: Behavioural Research Methods 2 (BRM2), Behavioural Research Methods 3 (BRM3) and Metascience.
+Currently I teach in three courses at Eindhoven University of Technology: **Behavioural Research Methods 2 (BRM2)**, **Behavioural Research Methods 3 (BRM3)** and **Metascience**.
 
 ### Behavioural Research Methods 2 (BRM2):
 
 - Covariate Selection in Multiple Regression: Exploratory vs. Confirmatory Approaches (Coming soon)
 
-- [Introduction to multiple regression](https://cristianmesquida.github.io/multiple_regression/). This lecture
-introduces multiple regression analysis, including model specification, interpretation of regression coefficients,
-model assumptions, and practical applications in R.
+- **Introduction to multiple regression**. This lecture
+introduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.
 
+<a class="resource-btn" href="https://cristianmesquida.github.io/multiple_regression/">
+  <i class="fa-solid fa-book"></i> Book
+</a>
 
-- [Introduction to power analysis](https://cristianmesquida.github.io/doing_power_analysis/) (Chapters 1-5). This
-lecture covers the principles of statistical power analysis, its role in study design, and how to perform power
-analyses for common statistical tests using R. The slides are available [here](https://github.com/cristianmesquida/power_analysis_brm2-3).
+- **Introduction to power analysis** (Chapters 1-5). This
+lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.
+
+<div class="resource-links">
+
+<a class="resource-btn" href="https://github.com/cristianmesquida/power_analysis_brm2-3">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+<a class="resource-btn" href="https://cristianmesquida.github.io/doing_power_analysis/">
+  <i class="fa-solid fa-book"></i> Book
+</a>
+
+<div>
 
 ### Behavioural Research Methods 3 (BRM3):
-[P-values and Bayes Fctors](https://cristianmesquida.github.io/pvalues_and_bayes/slides.pdf). This lecture compares
-Frequentist and Bayesian approaches to statistical inference. Students learn how to interpret *p*-values and Bayes
+
+- **P-values and Bayes Factors**. This lecture compares Frequentist and Bayesian approaches to statistical inference. 
+Students learn how to interpret *p*-values and Bayes
 factors and perform Bayesian analyses for paired and independent-samples *t*-tests.
 
+<a class="resource-btn" href="https://cristianmesquida.github.io/pvalues_and_bayes/slides.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
 
-[Advanced power analysis](https://cristianmesquida.github.io/doing_power_analysis/) (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs,
-including equivalence tests using the `TOSTER` package, factorial designs using the `Superpower` package, and
-simulation-based approaches in R. The slides are available [here](https://github.com/cristianmesquida/power_analysis_brm2-3).
+- **Advanced power analysis** (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs,
+including equivalence tests using the `TOSTER` package, factorial designs using the
+`Superpower` package, and simulation-based approaches in R. 
 
+<div class="resource-links">
+
+<a class="resource-btn" href="https://github.com/cristianmesquida/power_analysis_brm2-3">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+<a class="resource-btn" href="https://cristianmesquida.github.io/doing_power_analysis/">
+  <i class="fa-solid fa-book"></i> Book
+</a>
+
+<div>
 
 ### Metascience
 
-[Introduction to meta-analysis](https://github.com/cristianmesquida/introduction_to_meta-analysis). This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.
+- **Introduction to meta-analysis**. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.
 
-Bias detection in meta-analysis. This lecture will cover methods for detecting and assessing bias in meta-analyses, including publication bias, selective reporting, and risk of bias, using R. (Coming soon)
+<a class="resource-btn" href="https://github.com/cristianmesquida/introduction_to_meta-analysi
+s">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+- **Bias detection in meta-analysis**. This lecture will cover methods for detecting and assessing bias in meta-analyses, including publication bias, selective reporting, and risk of bias, using R. (Coming soon)
