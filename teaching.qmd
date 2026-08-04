@@ -28,7 +28,7 @@ lecture covers the principles of statistical power analysis, its role in study d
   <i class="fa-solid fa-book"></i> Book
 </a>
 
-<div>
+</div>
 
 ### Behavioural Research Methods 3 (BRM3):
 
@@ -54,7 +54,7 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
   <i class="fa-solid fa-book"></i> Book
 </a>
 
-<div>
+</div>
 
 ### Metascience
 
