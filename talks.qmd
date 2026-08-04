@@ -16,7 +16,7 @@ format: html
 
 - **Research waste in sports and exercise science**. Metascience series, Charles Sturt University (2025).
 
-<a class="resource-btn" href="https://github.com/cristianmesquida/ethical_research">
+<a class="resource-btn" href="https://cristianmesquida.github.io/ethical_research/slides.pdf">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 

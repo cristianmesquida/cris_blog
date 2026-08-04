@@ -20,7 +20,7 @@ lecture covers the principles of statistical power analysis, its role in study d
 
 <div class="resource-links">
 
-<a class="resource-btn" href="https://github.com/cristianmesquida/power_analysis_brm2-3">
+<a class="resource-btn" href="https://cristianmesquida.github.io/power_analysis_brm2-3/#/title-slide">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
@@ -46,7 +46,7 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 <div class="resource-links">
 
-<a class="resource-btn" href="https://github.com/cristianmesquida/power_analysis_brm2-3">
+<a class="resource-btn" href="https://cristianmesquida.github.io/power_analysis_brm2-3/#/title-slide">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
@@ -60,8 +60,7 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 - **Introduction to meta-analysis**. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.
 
-<a class="resource-btn" href="https://github.com/cristianmesquida/introduction_to_meta-analysi
-s">
+<a class="resource-btn" href="https://cristianmesquida.github.io/introduction_to_meta-analysis/#/title-slide">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
