@@ -5,6 +5,7 @@
 .DS_Store
 .quarto
 interaction_diagnostics.qmd
+equicalence.qmd
 
 /.quarto/
 

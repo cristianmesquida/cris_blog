@@ -4,31 +4,36 @@ format: html
 ---
 - **From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**. ONH Metascience Symposium, Oslo Nye Høyskole (2026).
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/metascience_symposium_oslo/#/title-slide">
+<a href="https://cristianmesquida.github.io/metascience_symposium_oslo/#/title-slide"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
 - **Introduction to Metacheck**. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/technology_tue_conference_talk/#/title-slide">
+<a href="https://cristianmesquida.github.io/technology_tue_conference_talk/#/title-slide"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
 - **Research waste in sports and exercise science**. Metascience series, Charles Sturt University (2025).
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/ethical_research/slides.pdf">
+<a href="https://cristianmesquida.github.io/ethical_research/slides.pdf"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
 - **The benefits of preregistration and Registered Reports when conducting confirmatory studies**. Danish Reproducibility Network (2025).
 
-<a class="resource-btn" href="https://osf.io/tveh8/overview">
+<a href="https://osf.io/tveh8/overview"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
 - **The benefits of preregistration and Registered Reports when conducting confirmatory studies**. Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).
 
-<a class="resource-btn" href="https://osf.io/tveh8/overview">
+<a href="https://osf.io/tveh8/overview"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
@@ -38,26 +43,29 @@ format: html
 
 <div class="resource-links">
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/power-analysis_workshop/">
+<a href="https://cristianmesquida.github.io/power-analysis_workshop/"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/power-analysis_workshop/">
-  <i class="fa-solid fa-folder-open"></i> Materials
+<a href="https://cristianmesquida.github.io/power-analysis_workshop/"
+   target="_blank">
+<i class="fa-solid fa-folder-open"></i> Materials
 </a>
 
- <a class="resource-btn" href="https://github.com/cristianmesquida/power-analysis_workshop">
-    <i class="fa-brands fa-github"></i> GitHub
-  </a>
-  
+<a href="https://github.com/cristianmesquida/power-analysis_workshop"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+
 </div>
 
 - **Introduction to Metacheck**. Open Research Summer School, King’s College London (2025).
 
-  <a class="resource-btn" href="https://github.com/cristianmesquida/introduction_to_metacheck">
-    <i class="fa-brands fa-github"></i> GitHub
-  </a>
-
+<a href="https://github.com/cristianmesquida/power-analysis_workshop"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
 
 
 

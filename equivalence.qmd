@@ -1,0 +1,18 @@
+---
+title: "Equivalence Testing"
+description: "Introduction to equivalence testing using the TOSTER package."
+categories: [BRM3]
+---
+
+::: {.callout-note}
+## Resources
+
+- {{< iconify fa6-solid:person-chalkboard >}} [Slides](https://cristianmesquida.github.io/equivalence_testing/)
+- {{< iconify fa6-solid:book-open >}} [Quarto Book](https://cristianmesquida.github.io/equivalence_book/)
+- {{< iconify fa6-brands:github >}} [Source code](https://github.com/cristianmesquida/equivalence_testing)
+- {{< iconify fa6-solid:file-pdf >}} [Handout](handout.pdf)
+:::
+
+## Overview
+
+This lecture...

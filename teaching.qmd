@@ -11,21 +11,39 @@ Currently I teach in three courses at Eindhoven University of Technology: **Beha
 - **Introduction to multiple regression**. This lecture
 introduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/multiple_regression/">
+<div class="resource-links">
+
+<a href="https://cristianmesquida.github.io/multiple_regression/"
+   target="_blank">
   <i class="fa-solid fa-book"></i> Book
 </a>
+
+<a href="https://github.com/cristianmesquida/multiple_regression"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+
+</div>
+
 
 - **Introduction to power analysis** (Chapters 1-5). This
 lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.
 
 <div class="resource-links">
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/power_analysis_brm2-3/#/title-slide">
+<a href="https://cristianmesquida.github.io/power_analysis_brm2-3/#/title-slide"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/doing_power_analysis/">
+<a href="https://cristianmesquida.github.io/doing_power_analysis/"
+   target="_blank">
   <i class="fa-solid fa-book"></i> Book
+</a>
+
+<a href="https://github.com/cristianmesquida/doing_power_analysis"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
 </a>
 
 </div>
@@ -36,9 +54,19 @@ lecture covers the principles of statistical power analysis, its role in study d
 Students learn how to interpret *p*-values and Bayes
 factors and perform Bayesian analyses for paired and independent-samples *t*-tests.
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/pvalues_and_bayes/slides.pdf">
+<div class="resource-links">
+
+<a href="https://cristianmesquida.github.io/pvalues_and_bayes/slides.pdf"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
+
+<a href="https://cristianmesquida.github.io/pvalues_and_bayes/"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+
+</div>
 
 - **Advanced power analysis** (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs,
 including equivalence tests using the `TOSTER` package, factorial designs using the
@@ -46,28 +74,50 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 <div class="resource-links">
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/power_analysis_brm2-3/#/title-slide">
+<a href="https://cristianmesquida.github.io/power_analysis_brm2-3/#/title-slide"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/doing_power_analysis/">
-  <i class="fa-solid fa-book"></i> Book
+<a href="https://cristianmesquida.github.io/doing_power_analysis/"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
 </a>
 
 </div>
 
 - **Equivalence testing**. Equivalence testing. In this lecture, I explain the rationale behind equivalence testing, how it differs from traditional null hypothesis significance testing, and how to conduct and interpret equivalence tests in R using the `TOSTER` package.
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/equivalence_testing/slides.pdf">
+<div class="resource-links">
+
+<a href="https://cristianmesquida.github.io/equivalence_testing/slides.pdf"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
+
+<a href="https://cristianmesquida.github.io/equivalence_testing"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+
+</div>
 
 ### Metascience
 
 - **Introduction to meta-analysis**. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.
 
-<a class="resource-btn" href="https://cristianmesquida.github.io/introduction_to_meta-analysis/#/title-slide">
+<div class="resource-links">
+
+<a href="https://cristianmesquida.github.io/introduction_to_meta-analysis/#/title-slide"
+   target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
+
+<a href="https://github.com/cristianmesquida/introduction_to_meta-analysis"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+
+</div>
 
 - **Bias detection in meta-analysis**. This lecture will cover methods for detecting and assessing bias in meta-analyses, including publication bias, selective reporting, and risk of bias, using R. (Coming soon)

@@ -53,13 +53,48 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Currently I teach in three courses at Eindhoven University of Technology: Behavioural Research Methods 2 (BRM2), Behavioural Research Methods 3 (BRM3) and Metascience.\n\nBehavioural Research Methods 2 (BRM2):\n\nCovariate Selection in Multiple Regression: Exploratory vs. Confirmatory Approaches (Coming soon)\nIntroduction to multiple regression. This lecture introduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.\n\n  Book \n\nIntroduction to power analysis (Chapters 1-5). This lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.\n\n\n  Slides \n  Book \n\n\n\nBehavioural Research Methods 3 (BRM3):\n\nP-values and Bayes Factors. This lecture compares Frequentist and Bayesian approaches to statistical inference. Students learn how to interpret p-values and Bayes factors and perform Bayesian analyses for paired and independent-samples t-tests.\n\n  Slides \n\nAdvanced power analysis (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs, including equivalence tests using the TOSTER package, factorial designs using the Superpower package, and simulation-based approaches in R.\n\n\n  Slides \n  Book \n\n\n\nMetascience\n\nIntroduction to meta-analysis. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.\n\n  Slides \n\nBias detection in meta-analysis. This lecture will cover methods for detecting and assessing bias in meta-analyses, including publication bias, selective reporting, and risk of bias, using R. (Coming soon)"
+    "text": "Currently I teach in three courses at Eindhoven University of Technology: Behavioural Research Methods 2 (BRM2), Behavioural Research Methods 3 (BRM3) and Metascience.\n\nBehavioural Research Methods 2 (BRM2):\n\nCovariate Selection in Multiple Regression: Exploratory vs. Confirmatory Approaches (Coming soon)\nIntroduction to multiple regression. This lecture introduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.\n\n\n  Book \n  GitHub \n\n\nIntroduction to power analysis (Chapters 1-5). This lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.\n\n\n  Slides \n  Book \n  GitHub \n\n\n\nBehavioural Research Methods 3 (BRM3):\n\nP-values and Bayes Factors. This lecture compares Frequentist and Bayesian approaches to statistical inference. Students learn how to interpret p-values and Bayes factors and perform Bayesian analyses for paired and independent-samples t-tests.\n\n\n  Slides \n  GitHub \n\n\nAdvanced power analysis (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs, including equivalence tests using the TOSTER package, factorial designs using the Superpower package, and simulation-based approaches in R.\n\n\n  Slides \n  GitHub \n\n\nEquivalence testing. Equivalence testing. In this lecture, I explain the rationale behind equivalence testing, how it differs from traditional null hypothesis significance testing, and how to conduct and interpret equivalence tests in R using the TOSTER package.\n\n\n  Slides \n  GitHub \n\n\n\nMetascience\n\nIntroduction to meta-analysis. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.\n\n\n  Slides \n  GitHub \n\n\nBias detection in meta-analysis. This lecture will cover methods for detecting and assessing bias in meta-analyses, including publication bias, selective reporting, and risk of bias, using R. (Coming soon)"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences. ONH Metascience Symposium, Oslo Nye Høyskole (2026).\n\n  Slides \n\nIntroduction to Metacheck. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).\n\n  Slides \n\nResearch waste in sports and exercise science. Metascience series, Charles Sturt University (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Danish Reproducibility Network (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).\n\n  Slides \n\nWorkshops\n\nPower analysis for sample size justification approach. University of Vic, Barcelona (2026).\n\n\n  Slides \n  Materials \n  GitHub \n\n\nIntroduction to Metacheck. Open Research Summer School, King’s College London (2025).\n  GitHub"
+    "text": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences. ONH Metascience Symposium, Oslo Nye Høyskole (2026).\n\n  Slides \n\nIntroduction to Metacheck. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).\n\n  Slides \n\nResearch waste in sports and exercise science. Metascience series, Charles Sturt University (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Danish Reproducibility Network (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).\n\n  Slides \n\nWorkshops\n\nPower analysis for sample size justification approach. University of Vic, Barcelona (2026).\n\n\n  Slides \n  Materials \n  GitHub \n\n\nIntroduction to Metacheck. Open Research Summer School, King’s College London (2025).\n\n  GitHub"
+  },
+  {
+    "objectID": "teaching.html#brm2",
+    "href": "teaching.html#brm2",
+    "title": "Teaching",
+    "section": "BRM2",
+    "text": "BRM2\n\nIntroduction to Multiple Regression\nIntroduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.\n{{&lt; iconify fa6-solid:book &gt;}} Book\n\n\n\nIntroduction to Power Analysis (Chapters 1–5)\nCovers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n{{&lt; iconify fa6-solid:book &gt;}} Book\n\n\n\nCovariate Selection in Multiple Regression\nExploratory vs. Confirmatory Approaches.\nComing soon."
+  },
+  {
+    "objectID": "teaching.html#brm3",
+    "href": "teaching.html#brm3",
+    "title": "Teaching",
+    "section": "BRM3",
+    "text": "BRM3\n\nP-values and Bayes Factors\nCompares Frequentist and Bayesian approaches to statistical inference and demonstrates Bayesian analyses for paired and independent-samples t-tests.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n\n\n\nAdvanced Power Analysis (Chapters 6–8)\nFocuses on power analysis for equivalence tests (TOSTER), factorial designs (Superpower), and simulation-based approaches in R.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n{{&lt; iconify fa6-solid:book &gt;}} Book\n\n\n\nEquivalence Testing\nIntroduces the rationale for equivalence testing, explains how it differs from NHST, and demonstrates how to perform and interpret equivalence tests in R using TOSTER.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides"
+  },
+  {
+    "objectID": "teaching.html#metascience",
+    "href": "teaching.html#metascience",
+    "title": "Teaching",
+    "section": "Metascience",
+    "text": "Metascience\n\nIntroduction to Meta-analysis\nIntroduces effect size estimation, model fitting in R, interpretation of results, heterogeneity, and publication bias.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n\n\n\nBias Detection in Meta-analysis\nCovers publication bias, selective reporting, and risk-of-bias assessment in R.\nComing soon."
+  },
+  {
+    "objectID": "equivalence.html",
+    "href": "equivalence.html",
+    "title": "Equivalence Testing",
+    "section": "",
+    "text": "NoteResources\n\n\n\n\n Slides\n Quarto Book\n Source code\n Handout"
+  },
+  {
+    "objectID": "equivalence.html#overview",
+    "href": "equivalence.html#overview",
+    "title": "Equivalence Testing",
+    "section": "Overview",
+    "text": "Overview\nThis lecture…"
   }
 ]
