@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -213,7 +213,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aHlwb3RoZXNpcyUyMHRlc3Rpbmc=">hypothesis testing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -227,7 +227,60 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="aHlwb3RoZXNpcyUyMHRlc3Rpbmc=" data-listing-date-sort="1785794400000" data-listing-file-modified-sort="1771575650302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="thumbnail"><a href="./posts/post-with-code/index.html" class="no-external">
 
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/post-with-code/index.html" class="no-external">Do sports scientsits know the hypothesis they are testing?</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('aHlwb3RoZXNpcyUyMHRlc3Rpbmc='); return false;">hypothesis testing</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/post-with-code/index.html" class="no-external">
+To be continued…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/post-with-code/index.html" class="no-external">
+<div class="listing-date">
+Aug 4, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1785794400000" data-listing-file-modified-sort="1743338102120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
+<div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/welcome/index.html" class="no-external">
+This blog website is currently under construction as I am busy finishing up my PhD thesis. This blog will feature content on a range of topics, including sports and exercise…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/welcome/index.html" class="no-external">
+<div class="listing-date">
+Aug 4, 2026
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

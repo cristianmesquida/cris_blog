@@ -8,7 +8,10 @@
   },
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
   },
   {
     "listing": "/teaching.html",
