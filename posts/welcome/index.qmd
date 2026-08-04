@@ -1,7 +1,0 @@
----
-title: "Welcome To My Blog"
-date: today
-categories: [news]
----
-
-This blog website is currently under construction as I am busy finishing up my PhD thesis. This blog will feature content on a range of topics, including sports and exercise science research, methods and statistics, and metascience.

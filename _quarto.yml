@@ -14,6 +14,7 @@ website:
 
     right:
       - cv.qmd
+        target: _blank # opens link (or page) in a new browser tab
       - icon: github
         href: https://github.com/cristianmesquida
         target: _blank # opens link (or page) in a new browser tab

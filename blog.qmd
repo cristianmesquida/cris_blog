@@ -3,12 +3,12 @@ title: "Blog"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  categories: true
+  type: default # Simple list
+  categories: true # Displays the categories assigned to each post.
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: true # Displays the page title inside a large banner at the top of the page
 comments:
   giscus:
     repo: cristianmesquida/cris_blog
