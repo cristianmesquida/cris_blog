@@ -56,6 +56,12 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 </div>
 
+- **Equivalence testing**. Equivalence testing. In this lecture, I explain the rationale behind equivalence testing, how it differs from traditional null hypothesis significance testing, and how to conduct and interpret equivalence tests in R using the `TOSTER` package.
+
+<a class="resource-btn" href="https://cristianmesquida.github.io/equivalence_testing/slides.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
 ### Metascience
 
 - **Introduction to meta-analysis**. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.
