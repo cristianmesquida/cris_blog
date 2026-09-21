@@ -23,14 +23,21 @@ introduces multiple regression analysis, including model specification, interpre
 
 </div>
 
-- Variable Selection in Multiple Regression: This lecture introduces key concepts such as covariates, confounders, mediators, and colliders. Students learn how to use directed acyclic graphs (DAGs) to guide variable selection in multiple regression, and how the appropriate variables to include depend on whether the research question is causal or associational.
+- Variable Selection in Multiple Regression: This lecture introduces key concepts such as covariates, confounders, mediators, and colliders. Students learn how to use directed acyclic graphs (DAGs) to guide variable selection in multiple regression, and understand why the appropriate variables to include in a regression model depend on whether the research question is causal or associational.
 
 <div class="resource-links">
 
-<a href="https://github.com/cristianmesquida/variable_selection"
+<a href="https://cristianmesquida.github.io/variable_selection/#/title-slide"
    target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
+
+<a href="https://github.com/cristianmesquida/variable_selection"
+   target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+
+</div>
 
 - **Introduction to power analysis** (Chapters 1-5). This
 lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.
