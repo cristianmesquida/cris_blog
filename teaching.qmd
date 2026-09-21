@@ -6,8 +6,6 @@ Currently I teach in three courses at Eindhoven University of Technology: **Beha
 
 ### Behavioural Research Methods 2 (BRM2):
 
-- Covariate Selection in Multiple Regression: Exploratory vs. Confirmatory Approaches (Coming soon)
-
 - **Introduction to multiple regression**. This lecture
 introduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.
 
@@ -25,6 +23,14 @@ introduces multiple regression analysis, including model specification, interpre
 
 </div>
 
+- Variable Selection in Multiple Regression: This lecture introduces key concepts such as covariates, confounders, mediators, and colliders. Students learn how to use directed acyclic graphs (DAGs) to guide variable selection in multiple regression, and how the appropriate variables to include depend on whether the research question is causal or associational.
+
+<div class="resource-links">
+
+<a href="https://github.com/cristianmesquida/variable_selection"
+   target="_blank">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
 
 - **Introduction to power analysis** (Chapters 1-5). This
 lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.
@@ -69,8 +75,8 @@ factors and perform Bayesian analyses for paired and independent-samples *t*-tes
 </div>
 
 - **Advanced power analysis** (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs,
-including equivalence tests using the `TOSTER` package, factorial designs using the
-`Superpower` package, and simulation-based approaches in R. 
+including equivalence tests using the `TOSTER` R package, factorial designs using the
+`Superpower` R package, and simulation-based approaches in R. 
 
 <div class="resource-links">
 
@@ -86,7 +92,7 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 </div>
 
-- **Equivalence testing**. Equivalence testing. In this lecture, I explain the rationale behind equivalence testing, how it differs from traditional null hypothesis significance testing, and how to conduct and interpret equivalence tests in R using the `TOSTER` package.
+- **Equivalence testing**. Equivalence testing. In this lecture, I explain the rationale behind equivalence testing, how it differs from traditional null hypothesis significance testing, and how to conduct and interpret equivalence tests using the `TOSTER` R package.
 
 <div class="resource-links">
 
@@ -104,7 +110,7 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 ### Metascience
 
-- **Introduction to meta-analysis**. This lecture introduces the principles of meta-analysis, including effect size estimation, model fitting in R, interpretation of results, and key methodological considerations such as heterogeneity and publication bias.
+- **Introduction to meta-analysis**. This lecture introduces students to the principles of meta-analysis, including effect size estimation, model fitting, interpretation of results, moderator analysis and assessment of bias using the `meta` R package.
 
 <div class="resource-links">
 
@@ -120,4 +126,3 @@ including equivalence tests using the `TOSTER` package, factorial designs using 
 
 </div>
 
-- **Bias detection in meta-analysis**. This lecture will cover methods for detecting and assessing bias in meta-analyses, including publication bias, selective reporting, and risk of bias, using R. (Coming soon)

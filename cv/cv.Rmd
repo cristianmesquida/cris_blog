@@ -74,6 +74,13 @@ bibliography_entries("my_preprints.bib") %>%
   arrange(desc(issued))
 ```
 
+# Papers in preparation
+
+```{r}
+bibliography_entries("in_progress.bib") %>%
+  arrange(issued)
+```
+
 # Teaching Experience
 
 ```{r}
@@ -98,10 +105,10 @@ supervision %>%
 
 ```
 
-# Research experience
+# Qualifications
 
 ```{r}
-research_experience %>%
+qualifications %>%
   detailed_entries(what = institution, 
                    when = year, 
                    with = position, 
@@ -127,6 +134,27 @@ grants %>%
                    when = year, 
                    with = grant,
                    why = details)
+```
+
+# Conference organization
+
+```{r}
+organization %>%
+  detailed_entries(what = institution, 
+                   when = year,
+                   with = event,
+                   why = details,
+                   where = country)
+```
+
+# References
+
+```{r}
+references %>%
+  detailed_entries(what = institution, 
+                   with = reference,
+                   why = details,
+                   where = country)
 ```
 
 ```{r, include=FALSE}
