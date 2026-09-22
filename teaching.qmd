@@ -23,7 +23,7 @@ introduces multiple regression analysis, including model specification, interpre
 
 </div>
 
-- Variable Selection in Multiple Regression: This lecture introduces key concepts such as covariates, confounders, mediators, and colliders. Students learn how to use directed acyclic graphs (DAGs) to guide variable selection in multiple regression, and understand why the appropriate variables to include in a regression model depend on whether the research question is causal or associational.
+- **Variable selection in multiple regression**: This lecture introduces key concepts such as covariates, confounders, mediators, and colliders. Students learn how to use directed acyclic graphs (DAGs) to guide variable selection in multiple regression, and understand why the appropriate variables to include in a regression model depend on whether the research question is causal or associational.
 
 <div class="resource-links">
 
