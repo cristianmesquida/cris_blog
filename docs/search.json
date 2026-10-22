@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Do sports scientsits know the hypothesis they are testing?\n\n\n\nEstimand\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Cristian Mesquida",
@@ -7,11 +14,620 @@
     "text": "I defended my PhD on January 2026, with a dissertation examining the replicability and reproducibility of research in sports and exercise science. I am currently a Postdoctoral Researcher at Eindhoven University of Technology, where I conduct meta-science research. My current work focuses on Metacheck, an R package designed to help researchers prevent common statistical and reporting errors, promote best research practices, and extract data from published studies. I collaborate on this project with Daniël Lakens and Lisa DeBruine. My main responsibility is the development of the power analysis module and the validation of Metacheck modules. In addition to my research, I teach quantitative research methods, including multiple regression, power analysis, and meta-analysis."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "talks/metascience_symposium_oslo/index.html#overview",
+    "href": "talks/metascience_symposium_oslo/index.html#overview",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Overview",
+    "text": "Overview\n\nThe importance of statistical power\nThe current state of power analysis in sports and exercise science\nStrategies for improvement"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#how-to-design-informative-studies",
+    "href": "talks/metascience_symposium_oslo/index.html#how-to-design-informative-studies",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "How to design informative studies?",
+    "text": "How to design informative studies?\n\n\nAddress relevant questions\n\n\n\n\nUse rigorous study designs\n\n\n\n\nApply appropriate statistical analysis\n\n\n\n\nControlling for type I and type II error rates in the Null-hypothesis testing framework"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#how-do-we-control-the-type-ii-error-rate",
+    "href": "talks/metascience_symposium_oslo/index.html#how-do-we-control-the-type-ii-error-rate",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "How do we control the type II error rate?",
+    "text": "How do we control the type II error rate?\nBy conducting an a priori power analysis\n\n\\[n = 2 * (\\frac{Δ}{\\sigma})^2 * (Z_{\\alpha/2} + Z_{\\beta})^2\\]\n\n\n\n\\(n\\): the number of participants\nΔ: the expected difference\n\\(\\sigma\\): the presumed standard deviation\n\\(\\alpha\\) : the probability of type I error\n\\(\\beta\\): the probability of type II error"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#studies-designed-with-inadequate-power-can-be-unethical",
+    "href": "talks/metascience_symposium_oslo/index.html#studies-designed-with-inadequate-power-can-be-unethical",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Studies designed with inadequate power can be unethical",
+    "text": "Studies designed with inadequate power can be unethical\n\n“21. Medical research involving human participants must have a scientifically sound and rigorous design and execution that are likely to produce reliable, valid, and valuable knowledge and avoid research waste.”  — (World Medical Association 2025)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#designing-studies-with-high-statistical-power-increase-the-informative-value-of-studies",
+    "href": "talks/metascience_symposium_oslo/index.html#designing-studies-with-high-statistical-power-increase-the-informative-value-of-studies",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Designing studies with high statistical power increase the informative value of studies",
+    "text": "Designing studies with high statistical power increase the informative value of studies"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#increased-probability-of-detecting-true-effects",
+    "href": "talks/metascience_symposium_oslo/index.html#increased-probability-of-detecting-true-effects",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "1- Increased probability of detecting true effects",
+    "text": "1- Increased probability of detecting true effects\n\nDesign a study that has a high probability of detecting the intervention effect of interest\nThat is, you do not want to fail to develop a new treatment"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#more-informative-non-significant-results",
+    "href": "talks/metascience_symposium_oslo/index.html#more-informative-non-significant-results",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "2- More informative non-significant results",
+    "text": "2- More informative non-significant results\n\nStudy A designed with 90% to detect Δ yields a null finding (\\(p\\) &gt; \\(\\alpha\\))\nStudy B designed with 30% to detect Δ yields a null finding (\\(p\\) &gt; \\(\\alpha\\))\nWhat can we learn from study A and study B?"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#reduced-uncertainty-narrower-95-ci",
+    "href": "talks/metascience_symposium_oslo/index.html#reduced-uncertainty-narrower-95-ci",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "3- Reduced uncertainty (narrower 95% CI)",
+    "text": "3- Reduced uncertainty (narrower 95% CI)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#most-studies-are-designed-with-low-statistical-power",
+    "href": "talks/metascience_symposium_oslo/index.html#most-studies-are-designed-with-low-statistical-power",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Most studies are designed with low-statistical power",
+    "text": "Most studies are designed with low-statistical power\nIn a sample of 350 hypothesis-testing studies:\n\nTypical sample size in the field is about 35 participants (Mesquida et al. 2025b)\nAverage statistical power of 11% (Mesquida et al. 2025a)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#why-statistical-power-is-so-low",
+    "href": "talks/metascience_symposium_oslo/index.html#why-statistical-power-is-so-low",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Why statistical power is so low?",
+    "text": "Why statistical power is so low?\n\nAssess the prevalence, reproducibility and quality of power analyses (Mesquida et al. 2025b)\n350 hypothesis-testing studies published across 10 journals"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#low-prevalence",
+    "href": "talks/metascience_symposium_oslo/index.html#low-prevalence",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Low prevalence",
+    "text": "Low prevalence\nAbout 40% of hypothesis-testing studies reported an a priori power analysis (Mesquida et al. 2025b)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#low-reproducibility",
+    "href": "talks/metascience_symposium_oslo/index.html#low-reproducibility",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Low reproducibility",
+    "text": "Low reproducibility"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#low-reproducibility-1",
+    "href": "talks/metascience_symposium_oslo/index.html#low-reproducibility-1",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Low reproducibility",
+    "text": "Low reproducibility\n\nStudies often failed to report all required information\nStatistical test and selected effect size were often missing"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#justification-of-effect-sizes",
+    "href": "talks/metascience_symposium_oslo/index.html#justification-of-effect-sizes",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Justification of effect sizes",
+    "text": "Justification of effect sizes"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#distribution-of-effect-sizes-in-power-analysis",
+    "href": "talks/metascience_symposium_oslo/index.html#distribution-of-effect-sizes-in-power-analysis",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Distribution of effect sizes in power analysis",
+    "text": "Distribution of effect sizes in power analysis"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#quality",
+    "href": "talks/metascience_symposium_oslo/index.html#quality",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Quality",
+    "text": "Quality\n\nIf sample sizes are so small (~35), shouldn’t we expect that including an a priori power analyses will lead to larger sample sizes?\nReporting an a priori power analysis was not associated with larger sample sizes or a higher proportion of supported hypotheses"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#potential-reasons",
+    "href": "talks/metascience_symposium_oslo/index.html#potential-reasons",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Potential reasons",
+    "text": "Potential reasons\n\nA priori power analyses are conducted in a way that yields the sample size researchers aim to recruit — also known as “sample size samba” — (Schulz and Grimes 2005)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#potential-reasons-1",
+    "href": "talks/metascience_symposium_oslo/index.html#potential-reasons-1",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Potential reasons",
+    "text": "Potential reasons\n\nInflated effect sizes (Murphy et al. 2025)\n\nLow statistical power + selection bias → inflated effect sizes\nA median decrease of 75% in replicated effect sizes compared to the original findings (Murphy et al. 2025)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#section",
+    "href": "talks/metascience_symposium_oslo/index.html#section",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
     "section": "",
-    "text": "I defended my PhD on January 8th, with a dissertation examining the replicability and reproducibility of research in sports and exercise science. I am currently a Postdoctoral Researcher at Eindhoven University of Technology, where I conduct meta-science research. My current work focuses on Metacheck, an R package designed to help researchers prevent common statistical and reporting errors, promote best research practices, and extract data from published studies. I collaborate on this project with Daniël Lakens and Lisa DeBruine. My main responsibility is the development of the power analysis module and the validation of all Metacheck modules. In addition to my research, I teach quantitative research methods, including multiple regression, power analysis, and meta-analysis."
+    "text": "Results of the Sport Science Replication Project (Murphy et al. 2025)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#inflated-es-in-meta-analyses",
+    "href": "talks/metascience_symposium_oslo/index.html#inflated-es-in-meta-analyses",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Inflated ES in meta-analyses",
+    "text": "Inflated ES in meta-analyses"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#potential-reasons-2",
+    "href": "talks/metascience_symposium_oslo/index.html#potential-reasons-2",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Potential reasons",
+    "text": "Potential reasons\n\nUsing an effect size estimate that does not match the intervention effect (difference across the PICOS dimensions; estimand)\nUsing a statistical test that does not match statistical test used to evaluate the hypothesis"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#how-to-improve-the-quality-of-power-analysis",
+    "href": "talks/metascience_symposium_oslo/index.html#how-to-improve-the-quality-of-power-analysis",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "How to improve the quality of power analysis?",
+    "text": "How to improve the quality of power analysis?\n\n\nBetter training\n\nSampling variability\nCritical effect size\nImprove justification/interpretation of effect sizes\nPICOS/estimand framework\nAutomatation\n\n\n\n\n\nMore collaboration with (applied) statisticians and experts"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#the-biggest-challenge",
+    "href": "talks/metascience_symposium_oslo/index.html#the-biggest-challenge",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "The biggest challenge",
+    "text": "The biggest challenge\n\nThe true Δ is unknown, so researchers need to make an assumption about the true size of Δ"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#expected-δ",
+    "href": "talks/metascience_symposium_oslo/index.html#expected-δ",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Expected Δ",
+    "text": "Expected Δ\n\nBecause Δ is unknown, researchers need to assume it\nSports scientists often rely on single studies, meta-analysis or pilot studies\nHowever, each of these approaches comes with its own limitations"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#estimated-δ-vs.-population-δ",
+    "href": "talks/metascience_symposium_oslo/index.html#estimated-δ-vs.-population-δ",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Estimated Δ vs. population Δ",
+    "text": "Estimated Δ vs. population Δ\n\nWe collect a sample from a larger population\nEffect sizes from a study are estimates of the true population effect\nEstimates vary due to sampling error\nSmaller samples → more sampling error\nMore sampling error → less precise effect size estimates"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#population-δ-0.5",
+    "href": "talks/metascience_symposium_oslo/index.html#population-δ-0.5",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Population Δ = 0.5",
+    "text": "Population Δ = 0.5"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#critical-effect-size",
+    "href": "talks/metascience_symposium_oslo/index.html#critical-effect-size",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Critical effect size",
+    "text": "Critical effect size\n\nThe smallest detectable effect that can reach statistical significance (Perugini et al. 2025)\nIts value depends on the given sample size, \\(\\alpha\\), and test statistic\nThe typical sample size in sports and exercise science is ~30 participants\nWhat is the critical effect size for a two-group study with an \\(N\\) of 30 and \\(\\alpha\\) of 0.05?\n\n\n\n\n\n\ntype_effect_size\neffect_size\ncritical_effect_size\n\n\n\n\nd\n0.25\n0.62\n\n\ng\n0.24\n0.60"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#studies-often-differ-in-critical-aspects",
+    "href": "talks/metascience_symposium_oslo/index.html#studies-often-differ-in-critical-aspects",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Studies often differ in critical aspects",
+    "text": "Studies often differ in critical aspects\nThe PICOS framework:\n\nPopulation\nIntervention\nComparator\nOutcome\nStudy design/statistical test"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#population",
+    "href": "talks/metascience_symposium_oslo/index.html#population",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Population",
+    "text": "Population\n\nElite athletes, highly-trained athletes, sedentary participants, patients, students, etc.\nIntervention effects may vary across populations.\nFor example, a training intervention is likely to produce greater performance improvements in untrained or less trained individuals compared to highly trained athletes."
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#intervention",
+    "href": "talks/metascience_symposium_oslo/index.html#intervention",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Intervention",
+    "text": "Intervention\n\nDose, intensity, duration, type of intervention, frequency, etc.\nAll these variables can impact the intervention effect."
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#comparator",
+    "href": "talks/metascience_symposium_oslo/index.html#comparator",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Comparator",
+    "text": "Comparator\n\nPlacebo, active comparator (standard procedure), no-treatment control, dose-response comparator, historic comparator.\nFor example, comparing a new intervention against standard intervention might result in a smaller effect compared with a no-treatment control."
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#outcome",
+    "href": "talks/metascience_symposium_oslo/index.html#outcome",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Outcome",
+    "text": "Outcome\n\nWhat outcome was used to measure the impact of the intervention?\n\\(VO_{2MAX}\\), velocity at lactate threshold 2, countermovement jump (CMJ) height, 10-m sprint velocity, etc.\nThe same intervention may yield different results depending on the measured outcome.\nFor example, plyometric training is likely to improve jump height to a larger extant than 10-m sprint velocity."
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#study-design",
+    "href": "talks/metascience_symposium_oslo/index.html#study-design",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Study design",
+    "text": "Study design\n\nPre-post design, parallel control group design, randomized controlled trial (RCT), etc.\nDifferent study designs are associated with varying risks of bias; for example, observational studies generally have a higher risk of bias compared to randomized controlled trials (RCTs)"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#the-effect-size-depends-on-the-type-of-interaction",
+    "href": "talks/metascience_symposium_oslo/index.html#the-effect-size-depends-on-the-type-of-interaction",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "The effect size depends on the type of interaction",
+    "text": "The effect size depends on the type of interaction\n\nThe interaction effect size can be expressed as a difference-in-difference:\n\\[d_{\\mathrm{int}} =\n\\frac{(E_1 - C_1)}{\\mathrm{Pooled\\ SD}}\n-\n\\frac{(E_2 - C_2)}{\\mathrm{Pooled\\ SD}}\n=\n\\frac{(E_1 - C_1) - (E_2 - C_2)}{2 \\times \\mathrm{Pooled\\ SD}}\\]"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#section-1",
+    "href": "talks/metascience_symposium_oslo/index.html#section-1",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "",
+    "text": "\\[ Study_A: d_{\\mathrm{int}} = \\frac{(1-0) - (0-0)}{2 \\times 2} = 0.5 \\] \\[ Study_B: d_{\\mathrm{int}} = \\frac{(1-0) - (0-1)}{2 \\times 2} = 0.25 \\] \\[ Study_C: d_{\\mathrm{int}} = \\frac{(1-0) - (0-0)}{2 \\times 2} = 0.5 \\] \\[ Study_D: d_{\\mathrm{int}} = \\frac{(1-0) - (0.6-0)}{2 \\times 2} = 0.1 \\]"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#using-the-wrong-intervention-effect",
+    "href": "talks/metascience_symposium_oslo/index.html#using-the-wrong-intervention-effect",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Using the wrong intervention effect",
+    "text": "Using the wrong intervention effect\nStudy aim: to determine whether acute moderate hypoxia, compared to normoxia, had no detrimental effect on power output during 4 x 30-s all-out efforts.\nSample size justification:\n\n“The sample size was estimated using a power analysis software G*Power (version 3.1.9.2; Bonn University, Bonn, Germany) based on the mean effect (d = 3.18) of the within-condition decrement to peak and mean power output during repeated 30-s Wingate efforts.10 The power analysis resulted in a calculated total sample size of 4 participants.”"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#how-d-3.18-was-calculated",
+    "href": "talks/metascience_symposium_oslo/index.html#how-d-3.18-was-calculated",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "How d = 3.18 was calculated",
+    "text": "How d = 3.18 was calculated"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#automatation",
+    "href": "talks/metascience_symposium_oslo/index.html#automatation",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "Automatation",
+    "text": "Automatation\nThe power module in Metacheck can detect and classify power analyses and their components\n\nlibrary(metacheck)\nllm_use(TRUE) # Set to TRUE to use LLM\n\nresult &lt;- module_run(psychsci[10], \"power\")"
+  },
+  {
+    "objectID": "talks/metascience_symposium_oslo/index.html#references",
+    "href": "talks/metascience_symposium_oslo/index.html#references",
+    "title": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences",
+    "section": "References",
+    "text": "References\n\n\n\n\nMesquida, Cristian, Jennifer Murphy, Joe Warne, and Daniël Lakens. 2025a. On the Replicability of Sports and Exercise Science Research: Assessing the Prevalence of Publication Bias and Studies with Underpowered Designs by a z-Curve Analysis. https://doi.org/10.51224/SRXIV.534.\n\n\nMesquida, Cristian, Jennifer Murphy, Joe Warne, and Daniël Lakens. 2025b. Prevalence, Reporting Practices, and Methodological Quality of a Priori Power Analyses in Sports and Exercise Science Research. July. https://doi.org/10.51224/SRXIV.575.\n\n\nMurphy, Jennifer, Aaron R. Caldwell, Cristian Mesquida, et al. 2025. “Estimating the Replicability of Sports and Exercise Science Research.” Sports Medicine, ahead of print. https://doi.org/10.1007/s40279-025-02201-w.\n\n\nPerugini, Ambra, Filippo Gambarota, Enrico Toffalini, et al. 2025. “The Benefits of Reporting Critical-Effect-Size Values.” Advances in Methods and Practices in Psychological Science 8 (2): 25152459251335298. https://doi.org/10.1177/25152459251335298.\n\n\nSchulz, Kenneth F., and David A. Grimes. 2005. “Sample Size Calculations in Randomised Trials: Mandatory and Mystical.” The Lancet 365 (9467): 1348–53. https://doi.org/10.1016/S0140-6736(05)61034-3.\n\n\nWorld Medical Association. 2025. “World Medical Association Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants.” JAMA 333 (1): 71–74. https://doi.org/10.1001/jama.2024.21972."
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#slides",
+    "href": "talks/talk_cologne/index.html#slides",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#talks-objectives",
+    "href": "talks/talk_cologne/index.html#talks-objectives",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Talk’s objectives",
+    "text": "Talk’s objectives\n\n\nIncrease awareness of the importance of conducting valid power analyses\n\n\n\n\nProvide some practical guidance on how to conduct a valid power analysis"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#possible-outcomes",
+    "href": "talks/talk_cologne/index.html#possible-outcomes",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Possible outcomes",
+    "text": "Possible outcomes\n\n\n\n\n\n\n\n\n\nPositive Result\nNegative Result\n\n\n\n\nEffect Present (H₁)\nTrue Positive Correct detection\nFalse Negative Type II Error (\\(\\beta\\))\n\n\nEffect Absent (H₀)\nFalse Positive Type I Error (\\(\\alpha\\))\nTrue Negative Correct rejection"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#how-to-decrease-the-probability-of-a-type-ii-error",
+    "href": "talks/talk_cologne/index.html#how-to-decrease-the-probability-of-a-type-ii-error",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "How to decrease the probability of a Type II error?",
+    "text": "How to decrease the probability of a Type II error?\n\nBy increasing the statistical power of the study design\n\n\nThe power of a study is determined by the sample size, effect size, statistical test and alpha level"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#types-of-power-analysis",
+    "href": "talks/talk_cologne/index.html#types-of-power-analysis",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Types of Power Analysis",
+    "text": "Types of Power Analysis\n\n\nA Priori: calculates the sample size required to achieved a pre-specified power for a pre-specified effect size\nSensitivity (Effect Size): calculates the smallest effect size required to detect a pre-specified sample size with a pre-specified power\nSensitivity (Power): calculates power given a pre-specified effect size and sample size\nPost Hoc: calculates the power associated with the observed effect size and the sample size actually obtained"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#statistical-power",
+    "href": "talks/talk_cologne/index.html#statistical-power",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Statistical power",
+    "text": "Statistical power\n\nPower can be defined as the probability of correctly detecting a true effect when it exists (1 − \\(\\beta\\))\nIn frequentist statistics, it can be understood as the proportion of times we will obtain a significant result if the experiment is repeated many times."
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#power-in-the-long-term",
+    "href": "talks/talk_cologne/index.html#power-in-the-long-term",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Power in the long term",
+    "text": "Power in the long term\n\nSuppose we repeat the same study 1000 times with 80% power to detect a true effect size of 0.2\nAbout 800 (~80%) of these tests would yield a significant p-value"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#increase-the-informational-value-of-studies",
+    "href": "talks/talk_cologne/index.html#increase-the-informational-value-of-studies",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Increase the informational value of studies",
+    "text": "Increase the informational value of studies\nIf a study is designed with only 40% power, a non-significant result is difficult to interpret because it could reflect either:\n\nThe absence of a true effect (or an effect smaller than anticipated), or\nInsufficient power to detect an effect that actually exists."
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#improved-precision-narrower-95-ci",
+    "href": "talks/talk_cologne/index.html#improved-precision-narrower-95-ci",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Improved precision (narrower 95% CI)",
+    "text": "Improved precision (narrower 95% CI)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#average-statistical-power-in-sports-and-exercise-science",
+    "href": "talks/talk_cologne/index.html#average-statistical-power-in-sports-and-exercise-science",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Average statistical power in sports and exercise science",
+    "text": "Average statistical power in sports and exercise science\nIn a sample of 350 hypothesis-testing articles:\n\nThe average power was 11% (Mesquida et al. 2025a)\nThe average sample size of 37 (Mesquida et al. 2025b)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#why-is-power-so-low",
+    "href": "talks/talk_cologne/index.html#why-is-power-so-low",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Why is power so low?",
+    "text": "Why is power so low?\n\n144 out of 350 hypothesis-testing articles reported an a priori power analysis\nInvalid power analyses:\n\nReporting a power analysis increased the sample size by ~ 1 (Mesquida et al. 2025b)\nReporting a power analysis did not significantly increase the proportion of studies supporting the hypothesis tested (Mesquida et al. 2025b)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#simple-effects",
+    "href": "talks/talk_cologne/index.html#simple-effects",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Simple effects",
+    "text": "Simple effects\nWhat is the standardized effect size assuming a pooled standard deviation (\\(SD_{pooled}\\)) of 2?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#interaction-effects",
+    "href": "talks/talk_cologne/index.html#interaction-effects",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Interaction effects",
+    "text": "Interaction effects\n\nResearchers often use effect sizes from previous studies to inform their power analysis\nHowever, they may overlook differences in study designs\nFor interaction effects, the effect size depends on the patter of means across conditions, not just the size of the group differences (Langenberg et al. 2023; Sommet et al. 2023)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#section",
+    "href": "talks/talk_cologne/index.html#section",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "",
+    "text": "Interaction effects in 2 x 2 factorial designs can be conceived as a difference-in-differences:\n\\[\nd_{\\text{int}} = \\frac{(E_1 - C_1) - (E_2 - C_2)}{2 \\times SD_{\\text{pooled}}}\n\\]\nAssuming \\(SD_{pooled}\\) = 2, what is \\(d_{int}\\) for each plot?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#section-1",
+    "href": "talks/talk_cologne/index.html#section-1",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "",
+    "text": "= ((1-0) - (0 - 0)) / 4 = 0.25\n\n\n\n\n= ((1 - 0) - (0 - 1)) / 4 = 0.5\n\n\n\n\n= ((1 - 0) - (0.6 - 1)) / 4 = 0.1"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#wrong-effect",
+    "href": "talks/talk_cologne/index.html#wrong-effect",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Wrong effect",
+    "text": "Wrong effect\n\nThe aim of the study was to compare the effect of hypoxia vs. normoxia\n\n\nThe sample size was estimated using a power analysis software G*Power based on the mean effect (d = 3.18) of the within-condition decrement to peak and mean power output during repeated 30-s Wingate efforts.10 The power analysis resulted in a calculated total sample size of 4 participants"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#wrong-effect-1",
+    "href": "talks/talk_cologne/index.html#wrong-effect-1",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Wrong effect",
+    "text": "Wrong effect"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#distribution-of-effect-sizes",
+    "href": "talks/talk_cologne/index.html#distribution-of-effect-sizes",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Distribution of effect sizes",
+    "text": "Distribution of effect sizes\n\nIn G*Power, the default value for Cohen’s d is 0.5 and Cohen’s f is 0.25"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#wrong-test",
+    "href": "talks/talk_cologne/index.html#wrong-test",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Wrong test",
+    "text": "Wrong test\n\nPower analyses might be conducted for a test that does not match the statistical test used in the study (Thibault et al. 2024; Bakker et al. 2020)\nThis is difficult to assess because power analyses are often poorly reported"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#reporting-of-power-analyses",
+    "href": "talks/talk_cologne/index.html#reporting-of-power-analyses",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Reporting of power analyses",
+    "text": "Reporting of power analyses\n\npower type: a priori, power/sample size sensitivity, post hoc\npower: value between alpha and 100%\nsample size: number of subjects/items\neffect size: numeric value\neffect size metric: e.g., Cohen’s \\(d\\), \\(r\\), \\(\\eta_{p}^{2}\\), raw\nstatistical test: full specification\nalpha: 0-1, often assumed to be 0.05\nsoftware: e.g., G*Power, Superpower, simulation!"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#we-can-do-better",
+    "href": "talks/talk_cologne/index.html#we-can-do-better",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "We can do better",
+    "text": "We can do better\nReporting practices in 144 a priori power analyses\n\n\n\nItem\nNot reported, % (n)\n\n\n\n\nPrimary outcome\n35 (50)\n\n\nEffect size metric\n21 (30)\n\n\nEffect size magnitude\n22 (32)\n\n\nStatistical test\n60 (87)\n\n\nAlpha\n17 (25)\n\n\nPower\n9 (13)\n\n\nSoftware\n4 (6)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#reporting",
+    "href": "talks/talk_cologne/index.html#reporting",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Reporting",
+    "text": "Reporting\nHow would you write up this power analysis?\n\npwr::pwr.t.test(          \n  power = 0.80,           \n  d = 0.5,                \n  sig.level = 0.01,       \n  type = \"two.sample\",    \n  alternative = \"greater\" \n)\n\n\n     Two-sample t test power calculation \n\n              n = 81.65515\n              d = 0.5\n      sig.level = 0.01\n          power = 0.8\n    alternative = greater\n\nNOTE: n is number in *each* group"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#model-reporting-example",
+    "href": "talks/talk_cologne/index.html#model-reporting-example",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Model Reporting Example",
+    "text": "Model Reporting Example\n\nWe conducted an a priori analysis to determine the sample size with 80% power to detect the smallest effect size of interest (SESOI), which was a Cohen’s d of 0.5 determined by a cost-benefit analysis of the intervention. We used the pwr package (Champely, 2020) for an independent samples t-test, assuming equal variance and using a one-tailed prediction, with a critical alpha of 0.01. This determined that we would need 82 subjects in each group."
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#the-reality",
+    "href": "talks/talk_cologne/index.html#the-reality",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "The Reality",
+    "text": "The Reality\n\nA sample size of 22 participants was predetermined to yield a power of 80% and to detect an effect of comparable size to previous studies using similar independent and dependent measures (CITE)."
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#reproducibility-of-power-analyses",
+    "href": "talks/talk_cologne/index.html#reproducibility-of-power-analyses",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Reproducibility of power analyses",
+    "text": "Reproducibility of power analyses\n\nMesquida et al. (2025b)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#effect-size-justification",
+    "href": "talks/talk_cologne/index.html#effect-size-justification",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Effect size justification",
+    "text": "Effect size justification\n\n\n\nES justification\nPrevalence (n)\n\n\n\n\nPrevious study\n51% (58)\n\n\nNot reported\n13% (15)\n\n\nUnclear\n13% (15)\n\n\nCohen’s d thresholds\n8% (9)\n\n\nMeta-analysis\n7% (8)\n\n\nPilot study\n4% (4)\n\n\nOthers\n3% (3)\n\n\nSESOI\n1% (1)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#expected-effect-size",
+    "href": "talks/talk_cologne/index.html#expected-effect-size",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Expected effect size",
+    "text": "Expected effect size\n\nMost common approach: use a previous study or meta-analysis to inform the expected effect size\nCaveats:\n\nEffect-size estimates are uncertain, particularly in small samples\nEffect sizes may be inflated due to selection bias and underpowered study designs\nThe research context of previous studies (PICOS)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#random-variation",
+    "href": "talks/talk_cologne/index.html#random-variation",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Random variation",
+    "text": "Random variation\nStandard error (SE) of Cohen’s \\(d\\)\n\\[\nSE_d = \\sqrt{\\frac{2}{n} + \\frac{d^2}{4n}}\n\\]\nEffect sizes from small studies are less precise and more likely to deviate substantially from the true effect"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#random-variation-1",
+    "href": "talks/talk_cologne/index.html#random-variation-1",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Random variation",
+    "text": "Random variation"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#bias-in-individual-studies",
+    "href": "talks/talk_cologne/index.html#bias-in-individual-studies",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Bias in individual studies",
+    "text": "Bias in individual studies\n\nMurphy et al. (2025)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#bias-in-meta-analyses",
+    "href": "talks/talk_cologne/index.html#bias-in-meta-analyses",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Bias in meta-analyses",
+    "text": "Bias in meta-analyses"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#picos",
+    "href": "talks/talk_cologne/index.html#picos",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "PICOS",
+    "text": "PICOS\n\nPopulation: Is your target population the same as, or comparable to, the population studied in the original research?\n\n\nIntervention: Is the intervention evaluated in the original study similar to the intervention of interest?\n\n\nComparison: Is the comparison or control group in the original study similar to the comparison relevant to your research question?\n\n\nOutcome: Is the primary outcome measured in the original study similar to your outcome of interest?\n\n\nStudy Design: Is the study design used in the original research appropriate and comparable to the design needed to address your research question?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#section-2",
+    "href": "talks/talk_cologne/index.html#section-2",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "",
+    "text": "The PICOS dimensions need to be taken into account when selecting an effect size from a previous study"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#cohens-d-thresholds",
+    "href": "talks/talk_cologne/index.html#cohens-d-thresholds",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Cohen’s d thresholds",
+    "text": "Cohen’s d thresholds\n\nThey were proposed as general benchmarks, not context-specific-standards:\n\nd &lt; 0.2 (small)\nd &lt; 0.5 (medium)\nd &gt; 0.5 (large)\n\nThese thresholds ignore the research context (PICOS)\nExample: If comparing two treatments for weight loss, should the expected effect size be justified based on Cohen’s d psychology thresholds?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#how-do-we-move-forward",
+    "href": "talks/talk_cologne/index.html#how-do-we-move-forward",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "How do we move forward?",
+    "text": "How do we move forward?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#one-way",
+    "href": "talks/talk_cologne/index.html#one-way",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "One way",
+    "text": "One way\nBetter training: improve expertise on conducting effect-size justification and power analysis\n\nHowever, no one can be an expert in everything, and time is limited\n\nSpecialization: develop expertise in specific methods and provide support to researchers who need it"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#effect-size-justification-1",
+    "href": "talks/talk_cologne/index.html#effect-size-justification-1",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Effect size justification",
+    "text": "Effect size justification\n\nWith a typical sample size of 37, what is the smallest detectable effect that can reach statistical significance at \\(\\alpha\\) = 0.05 in a two-sided \\(t\\)-test?\n\n\ncriticalESvalue::critical_t2s(\n  hypothesis = \"two.sided\", \n  n1 = 19, \n  n2 = 19\n  )$dc\n\n[1] 0.6580006\n\n\n\n\nDoes an effect smaller than this become uninteresting?\n\n\n\n\nPower should be based on the smallest effect size of interest (SESOI) not the effect size you hope to observe or would like to detect"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#simulation-based-approach",
+    "href": "talks/talk_cologne/index.html#simulation-based-approach",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Simulation-based approach",
+    "text": "Simulation-based approach\n\nMove away from point-and-click software such as G*Power\nEncourages researchers to think carefully about their assumptions and the data-generating process\nMakes assumptions explicit, transparent and verifiable"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#example-1",
+    "href": "talks/talk_cologne/index.html#example-1",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Example 1",
+    "text": "Example 1\n\nDesign: Two groups with pre- and post-measurements\nEstimand: Adjusted mean difference at post-measurement\nResearch question: Does the intervention group differ from the control group at post-measurement, after adjusting for baseline scores?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#simulation-example-1",
+    "href": "talks/talk_cologne/index.html#simulation-example-1",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Simulation Example 1",
+    "text": "Simulation Example 1\n\nset.seed(123)\n\nn &lt;- 30\nnsim &lt;- 5000\n\n# Data generation process \nmu &lt;- data.frame(\n  Control = c(50, 50),\n  Intervention = c(50, 55),\n  row.names = c(\"pre\", \"post\")\n)\n\np_values &lt;- replicate(nsim, {\n\n  # Simulate one dataset based on data genration process\n  dat &lt;- sim_design(\n    within = list(time = c(\"pre\", \"post\")),\n    between = list(group = c(\"Control\", \"Intervention\")),\n    n = n,\n    mu = mu,\n    sd = 10,\n    r = 0.60,\n    long = FALSE,\n    plot = FALSE\n  )\n\n  # ANCOVA\n  model &lt;- lm(post ~ group + pre, data = dat)\n\n  # Extract p-value for group effect\n  coef(summary(model))[\"groupIntervention\", \"Pr(&gt;|t|)\"]\n})\n\n# Estimated power\nmean(p_values &lt; 0.05, na.rm = TRUE)\n\n[1] 0.6634"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#example-2",
+    "href": "talks/talk_cologne/index.html#example-2",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Example 2",
+    "text": "Example 2\n\nDesign: Two groups with pre-, post-1, and post-2 measurements\nEstimand: Group × time interaction effect.\nResearch question: Does change over time differ between the two groups?"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#simulation-example-2",
+    "href": "talks/talk_cologne/index.html#simulation-example-2",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Simulation Example 2",
+    "text": "Simulation Example 2\n\nset.seed(123)\n\nn &lt;- 250\nnsim &lt;- 100\n\ncors &lt;- c(0.70, 0.5, 0.70)\n\nsimulate_data &lt;- function(n) {\n  \n  # Data generation process\n  dat_a &lt;- rnorm_multi(\n    n = n,\n    mu = c(30, 20, 28),\n    sd = c(10, 10, 10),\n    r = cors,\n    varnames = c(\"measure.1\", \"measure.2\", \"measure.3\")\n  ) |&gt;\n    mutate(tx = \"A\")\n  \n  dat_b &lt;- rnorm_multi(\n    n = n,\n    mu = c(30, 20, 22),\n    sd = c(10, 10, 10),\n    r = cors,\n    varnames = c(\"measure.1\", \"measure.2\", \"measure.3\")\n  ) |&gt;\n    mutate(tx = \"B\")\n  \n  bind_rows(dat_a, dat_b) |&gt;\n    mutate(subject.id = factor(row_number())) |&gt;\n    pivot_longer(\n      cols = starts_with(\"measure.\"),\n      names_to = \"time\",\n      values_to = \"measure\"\n    ) |&gt;\n    mutate(\n      time = factor(time, levels = c(\"measure.1\", \"measure.2\", \"measure.3\")),\n      tx = factor(tx)\n    )\n}\n\np_values &lt;- replicate(nsim, {\n  dat &lt;- simulate_data(n)\n  \n  # Mixed model with random intercept and interaction\n  model &lt;- lmer(\n    measure ~ time * tx + (1 | subject.id),\n    data = dat\n  )\n \n # Extract p-value for interaction effect\n anova(model)[\"time:tx\", \"Pr(&gt;F)\"]\n  \n})\n\n# Estimate power\nmean(p_values &lt; 0.05)\n\n[1] 1"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#machine-readable-power-analyses",
+    "href": "talks/talk_cologne/index.html#machine-readable-power-analyses",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Machine-readable power analyses",
+    "text": "Machine-readable power analyses\n\nArticles are represented as collections of machine-readable objects (Lakens and DeBruine 2021)\nEncode hypotheses, analyses and power analyses as machine-readable objects\nLink hypotheses to analyses and power analyses to improve transparency and rigor"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#section-3",
+    "href": "talks/talk_cologne/index.html#section-3",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "",
+    "text": "Hypothesis object\n  \"hypotheses\": [\n    {\n    \"id\": \"H1\",\n    \"description\": \"The intervention group will be superior to the control group on  reaction time and attention.\",\n    \"criteria\": [\n      {\n      \"id\": \"C1\",\n      \"analysis_id\": \"A1\",\n      \"result\": \"p.value[1]\",\n      \"operator\": \"&lt;\",\n      \"comparator\": 0.05,\n      \"conclusion\": true\n    }\n    ]\n}"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#section-4",
+    "href": "talks/talk_cologne/index.html#section-4",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "",
+    "text": "Analysis object\n  \"analyses\": [\n    {\n    \"id\": \"A1\",\n    \"code\": \"lm(y ~ group + pre) |&gt; hypotheses(mod, \"groupint &lt;= 0\")\",\n    \"software\": \"R version 4.5.2 (2025-10-31)\",\n    \"results\": {\n      \"statistic\": 3.97,\n      \"parameter\": \"\",\n      \"p.value\": 0.00004,\n      \"conf.int\": [0.61; 1.79],\n      \"estimate\": 1.2,\n      \"null.value\": 0,\n      \"stderr\":0.3,\n      \"alternative\": \"one.sided\",\n      \"method\": \"ANCOVA\",\n      \"data.name\": \"data\"\n        }\n      }\n      ]"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#section-5",
+    "href": "talks/talk_cologne/index.html#section-5",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "",
+    "text": "Power analysis object\n  \"power_analyses\": [\n    {\n    \"id\": \"P1\",\n    \"target\": \"sample_size\",\n    \"power\": 0.97,\n    \"sample_size\": 200,\n    \"data_generating_mechanism\": {\n\n},\n    \"criterion_id\": \"C1\",\n    \"analysis_id\": \"A1\",\n    \"software\": \"R version 4.5.2 (2025-10-31)\"\n    }\n    ]"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#thanks",
+    "href": "talks/talk_cologne/index.html#thanks",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "Thanks!",
+    "text": "Thanks!\n\n\nMay the power be with you\n\nContact me if you have any questions about power analyses (c.mesquida.caldentey@tue.nl)"
+  },
+  {
+    "objectID": "talks/talk_cologne/index.html#references",
+    "href": "talks/talk_cologne/index.html#references",
+    "title": "From Guesswork to Rigor: Improving Power Analyses in Research",
+    "section": "References",
+    "text": "References\n\n\n\n\nBakker, Marjan, Coosje L. S. Veldkamp, Olmo R. Van Den Akker, et al. 2020. “Recommendations in Pre-Registrations and Internal Review Board Proposals Promote Formal Power Analyses but Do Not Increase Sample Size.” PLOS ONE 15 (7): e0236079. https://doi.org/10.1371/journal.pone.0236079.\n\n\nLakens, Daniël, and Lisa M. DeBruine. 2021. “Improving Transparency, Falsifiability, and Rigor by Making Hypothesis Tests Machine-Readable.” Advances in Methods and Practices in Psychological Science 4 (2): 2515245920970949. https://doi.org/10.1177/2515245920970949.\n\n\nLangenberg, Benedikt, Markus Janczyk, Valentin Koob, Reinhold Kliegl, and Axel Mayer. 2023. “A Tutorial on Using the Paired t Test for Power Calculations in Repeated Measures ANOVA with Interactions.” Behavior Research Methods 55 (5): 2467–84. https://doi.org/10.3758/s13428-022-01902-8.\n\n\nMesquida, Cristian, Jennifer Murphy, Joe Warne, and Daniël Lakens. 2025a. On the Replicability of Sports and Exercise Science Research: Assessing the Prevalence of Publication Bias and Studies with Underpowered Designs by a z-Curve Analysis. https://doi.org/10.51224/SRXIV.534.\n\n\nMesquida, Cristian, Jennifer Murphy, Joe Warne, and Daniël Lakens. 2025b. Prevalence, Reporting Practices, and Methodological Quality of a Priori Power Analyses in Sports and Exercise Science Research. July. https://doi.org/10.51224/SRXIV.575.\n\n\nMurphy, Jennifer, Aaron R. Caldwell, Cristian Mesquida, et al. 2025. “Estimating the Replicability of Sports and Exercise Science Research.” Sports Medicine, ahead of print. https://doi.org/10.1007/s40279-025-02201-w.\n\n\nSommet, Nicolas, David L. Weissman, Nicolas Cheutin, and Andrew J. Elliot. 2023. “How Many Participants Do i Need to Test an Interaction? Conducting an Appropriate Power Analysis and Achieving Sufficient Power to Detect an Interaction.” Advances in Methods and Practices in Psychological Science 6 (3): 25152459231178728. https://doi.org/10.1177/25152459231178728.\n\n\nThibault, Robert T., Emmanuel A. Zavalis, Mario Malički, and Hugo Pedder. 2024. An Evaluation of Reproducibility and Errors in Published Sample Size Calculations Performed Using g*power. https://doi.org/10.1101/2024.07.15.24310458."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences. Lunch Talk, German Sport University Cologne (2026).\n\n  Slides \n\nImproving the transparency of power analyses with Metacheck. FORRT AI in Metascience, online conference (2026).\n\n  Slides \n\nFrom Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences. ONH Metascience Symposium, Oslo Nye Høyskole (2026).\n\n  Slides \n\nIntroduction to Metacheck. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).\n\n  Slides \n\nResearch waste in sports and exercise science. Metascience series, Charles Sturt University (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Danish Reproducibility Network (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).\n\n  Slides \n\nWorkshops\n\nPower analysis for sample size justification approach. University of Vic, Barcelona (2026).\n\n\n  Slides \n  Materials \n  GitHub \n\n\nIntroduction to Metacheck. Open Research Summer School, King’s College London (2025).\n\n  GitHub"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -21,67 +637,11 @@
     "text": "To be continued…"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This blog website is currently under construction as I am busy finishing up my PhD thesis. This blog will feature content on a range of topics, including sports and exercise science research, methods and statistics, and metascience."
-  },
-  {
-    "objectID": "interaction_diagnostics.html",
-    "href": "interaction_diagnostics.html",
-    "title": "linear interaction effect",
-    "section": "",
-    "text": "library(ggplot2)\n\nWarning: package 'ggplot2' was built under R version 4.4.3\n\nlibrary(interflex)\n\nLinear Interaction Effect\n\nn &lt;- 200 # sample\ni &lt;- 5 # intercept\nt &lt;- sample(c(0,1), n, replace = TRUE) # treatment\nx &lt;- rnorm(n, 3, 1) # moderator\ne &lt;- rnorm(n, 0, 1) # error term\ny &lt;- i + 2*x + 2*t + 5*x*t + e # linear model\n\ndf1 &lt;- data.frame(y, t, x, e)\n\nhead(df1, 5)\n\n          y t        x         e\n1 24.305802 1 2.322554 1.0479211\n2 14.669438 0 4.343127 0.9831833\n3  9.118423 0 1.998837 0.1207495\n4 28.841809 1 3.025760 0.6614884\n5 12.800494 0 2.737633 2.3252282\n\n\n\nggplot(df1, aes(y = y, x = x)) +\n  geom_point() +\n  geom_smooth(method = \"lm\", se = FALSE) +\n  facet_wrap(t)\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\n\n\n\n\nm1 &lt;- lm(y ~ t*x, df1)\n\nsummary(m1)\n\n\nCall:\nlm(formula = y ~ t * x, data = df1)\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-2.55691 -0.63517 -0.01408  0.59504  2.87810 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)   4.9696     0.3633  13.679  &lt; 2e-16 ***\nt             2.6722     0.4790   5.579 7.96e-08 ***\nx             1.9540     0.1141  17.120  &lt; 2e-16 ***\nt:x           4.9004     0.1499  32.691  &lt; 2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 0.9415 on 196 degrees of freedom\nMultiple R-squared:  0.9915,    Adjusted R-squared:  0.9914 \nF-statistic:  7645 on 3 and 196 DF,  p-value: &lt; 2.2e-16\n\n\n\ninterflex(estimator = \"raw\", Y = \"y\", D = \"t\", X = \"x\", data = df1, \n          weights = NULL, Ylabel = \"Outcome\", \n          Dlabel = \"Treatment\", Xlabel=\"Moderator\", \n          main = \"Raw Plot\", cex.main = 1.2, ncols=2)\n\nBaseline group not specified; choose treat = 0 as the baseline group. \n\n\nWarning: `aes_string()` was deprecated in ggplot2 3.0.0.\nℹ Please use tidy evaluation idioms with `aes()`.\nℹ See also `vignette(\"ggplot2-in-packages\")` for more information.\nℹ The deprecated feature was likely used in the interflex package.\n  Please report the issue to the authors.\n\n\nWarning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.\nℹ Please use `linewidth` instead.\nℹ The deprecated feature was likely used in the interflex package.\n  Please report the issue to the authors.\n\n\n\n\n\n\n\n\n\n\nout1 &lt;- interflex(estimator = \"binning\", Y = \"y\", D = \"t\", X = \"x\", data = df1, \n          weights = NULL, Ylabel = \"Outcome\", \n          Dlabel = \"Treatment\", Xlabel=\"Moderator\", \n          main = \"Raw Plot\", cex.main = 1.2, ncols=2)\n\nBaseline group not specified; choose treat = 0 as the baseline group. \n\n\nWarning: `aes_()` was deprecated in ggplot2 3.0.0.\nℹ Please use tidy evaluation idioms with `aes()`\nℹ The deprecated feature was likely used in the ggplotify package.\n  Please report the issue at\n  &lt;https://github.com/GuangchuangYu/ggplotify/issues&gt;.\n\nout1$figure\n\n\n\n\n\n\n\n\n\nout1$tests$p.wald\n\n[1] \"0.976\"\n\n\nNon-linear Interaction Effect\n\nn &lt;- 200 # sample\ni &lt;- 5 # intercept\nt &lt;- sample(c(0,1), n, replace = TRUE) # treatment\nx &lt;- rnorm(n, 3, 1) # moderator\ne &lt;- rnorm(n, 0, 1) # error term\ny &lt;- i + (2*x^3-1) + 2*t + 50*x*t + e # non-linear model\n\ndf2 &lt;- data.frame(y, t, x, e)\n\n\nggplot(df2, aes(y = y, x = x)) +\n  geom_point() +\n  geom_smooth(method = \"lm\", se = FALSE) +\n  facet_wrap(t)\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\n\n\n\n\ninterflex(estimator = \"raw\", Y = \"y\", D = \"t\", X = \"x\", data = df2, \n          weights = NULL, Ylabel = \"Outcome\", \n          Dlabel = \"Treatment\", Xlabel=\"Moderator\", \n          main = \"Raw Plot\", cex.main = 1.2, ncols=2)\n\nBaseline group not specified; choose treat = 0 as the baseline group. \n\n\n\n\n\n\n\n\n\n\nout2 &lt;- interflex(estimator = \"binning\", Y = \"y\", D = \"t\", X = \"x\", data = df2, \n          weights = NULL, Ylabel = \"Outcome\", \n          Dlabel = \"Treatment\", Xlabel=\"Moderator\", \n          main = \"Raw Plot\", cex.main = 1.2, ncols=2)\n\nBaseline group not specified; choose treat = 0 as the baseline group. \n\nout2$figure\n\n\n\n\n\n\n\n\n\nout2$tests$p.wald\n\n[1] \"0.000\""
-  },
-  {
-    "objectID": "cv/cv.html",
-    "href": "cv/cv.html",
-    "title": "Employment",
-    "section": "",
-    "text": "Employment\n\n\nA tibble: 2 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2025-Present Postdoctoral rese… Eind…  2 Eindhoven University of Technology 2021-2025 PhD candidate Eind… \n\n\nEducation\n\n\nA tibble: 4 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2021-2025 PhD Eind…  2 University of Barcelona 2017-2019 MSc. Integrative Phy… Barc…  3 University of Granada 2015-2017 MSc. Research in Spo… Gran…  4 University of Vic 2009-2013 BSc. Sports and Exer… Vic,… \n\n\nPublications\n\n\n\n\n\nPreprints\n\n\n\n\n\nPapers in preparation\n\n\n\n\n\nTeaching Experience\n\n\nA tibble: 6 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2025-Present Lecturer of Advan…   2 Eindhoven University of Technology 2025-Present Lecturer of Behav…   3 Eindhoven University of Technology 2024-Present Lecturer of Metas…   4 Eindhoven University of Technology 2024 Teaching assistan…   5 Eindhoven University of Technology 2024 Teaching assistan…   6 Technological University of Dublin 2021 Teaching Assistan…  \n\n\nSupervision\n\n\nA tibble: 4 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2026 Supervisor of Master End…   2 Eindhoven University of Technology 2025 Supervisor of Master End…   3 Eindhoven University of Technology 2025 Supervisor of Bachelor E…   4 Eindhoven University of Technology 2024 Supervisor of Master End…  \n\n\nQualifications\n\n\nA tibble: 1 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2026 Start to Supervise The Netherl… \n\n\nTalks\n\n\nA tibble: 10 × 5\nwhat when with where why\n     1 Oslo Nye Høyskole 2026 ONH …   2 Eindhoven University of Technology 2026 Tran…   3 Charles Sturt University 2025 Meta…   4 Open Research Summer School at King’s College London 2025 Work…   5 Danish Reproducibility Network 2025 Dani…   6 Eindhoven University of Technology 2025 Lunc…   7 University Medical Center Groningen 2024 NLRN…   8 Eindhoven University of Technology 2024 Paul…   9 Setanta College 2021-… Work…   10 Kumming Hiageng Physical Training Base 2019 Work…  \n\n\nGrants\n\n\nA tibble: 2 × 5\nwhat when with where why\n     1 Dutch Research Council 2026 Replication studies   2 Eindhoven University of Technology 2024 IE&IS ESA Education Inno…  \n\n\nConference organization\n\n\nA tibble: 1 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2026 Transparency, Technology… Eind… \n\n\nReferences\n\n\nA tibble: 2 × 5\nwhat when with where why\n     1 Technological University Dublin  Joe Warne (joe.war… Dubl…  2 Atlantic Technological University Galway  Jennifer Muprhy (j… Galw…"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Do sports scientsits know the hypothesis they are testing?\n\n\n\nEstimand\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
     "text": "Currently I teach in three courses at Eindhoven University of Technology: Behavioural Research Methods 2 (BRM2), Behavioural Research Methods 3 (BRM3) and Metascience.\n\nBehavioural Research Methods 2 (BRM2):\n\nIntroduction to multiple regression. This lecture introduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.\n\n\n  Book \n  GitHub \n\n\nVariable selection in multiple regression: This lecture introduces key concepts such as covariates, confounders, mediators, and colliders. Students learn how to use directed acyclic graphs (DAGs) to guide variable selection in multiple regression, and understand why the appropriate variables to include in a regression model depend on whether the research question is causal or associational.\n\n\n  Slides \n  GitHub \n\n\nIntroduction to power analysis (Chapters 1-5). This lecture covers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.\n\n\n  Slides \n  Book \n  GitHub \n\n\n\nBehavioural Research Methods 3 (BRM3):\n\nP-values and Bayes Factors. This lecture compares Frequentist and Bayesian approaches to statistical inference. Students learn how to interpret p-values and Bayes factors and perform Bayesian analyses for paired and independent-samples t-tests.\n\n\n  Slides \n  GitHub \n\n\nAdvanced power analysis (Chapters 6-8). This lecture focuses on power analysis for more advanced study designs, including equivalence tests using the TOSTER R package, factorial designs using the Superpower R package, and simulation-based approaches in R.\n\n\n  Slides \n  GitHub \n\n\nEquivalence testing. Equivalence testing. In this lecture, I explain the rationale behind equivalence testing, how it differs from traditional null hypothesis significance testing, and how to conduct and interpret equivalence tests using the TOSTER R package.\n\n\n  Slides \n  GitHub \n\n\n\nMetascience\n\nIntroduction to meta-analysis. This lecture introduces students to the principles of meta-analysis, including effect size estimation, model fitting, interpretation of results, moderator analysis and assessment of bias using the meta R package.\n\n\n  Slides \n  GitHub"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences. ONH Metascience Symposium, Oslo Nye Høyskole (2026).\n\n  Slides \n\nIntroduction to Metacheck. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).\n\n  Slides \n\nResearch waste in sports and exercise science. Metascience series, Charles Sturt University (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Danish Reproducibility Network (2025).\n\n  Slides \n\nThe benefits of preregistration and Registered Reports when conducting confirmatory studies. Lunch Meetup for the Open Science Community at Eindhoven University of Technology (2025).\n\n  Slides \n\nWorkshops\n\nPower analysis for sample size justification approach. University of Vic, Barcelona (2026).\n\n\n  Slides \n  Materials \n  GitHub \n\n\nIntroduction to Metacheck. Open Research Summer School, King’s College London (2025).\n\n  GitHub"
-  },
-  {
-    "objectID": "teaching.html#brm2",
-    "href": "teaching.html#brm2",
-    "title": "Teaching",
-    "section": "BRM2",
-    "text": "BRM2\n\nIntroduction to Multiple Regression\nIntroduces multiple regression analysis, including model specification, interpretation of regression coefficients, model assumptions, and practical applications in R.\n{{&lt; iconify fa6-solid:book &gt;}} Book\n\n\n\nIntroduction to Power Analysis (Chapters 1–5)\nCovers the principles of statistical power analysis, its role in study design, and how to perform power analyses for common statistical tests using R.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n{{&lt; iconify fa6-solid:book &gt;}} Book\n\n\n\nCovariate Selection in Multiple Regression\nExploratory vs. Confirmatory Approaches.\nComing soon."
-  },
-  {
-    "objectID": "teaching.html#brm3",
-    "href": "teaching.html#brm3",
-    "title": "Teaching",
-    "section": "BRM3",
-    "text": "BRM3\n\nP-values and Bayes Factors\nCompares Frequentist and Bayesian approaches to statistical inference and demonstrates Bayesian analyses for paired and independent-samples t-tests.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n\n\n\nAdvanced Power Analysis (Chapters 6–8)\nFocuses on power analysis for equivalence tests (TOSTER), factorial designs (Superpower), and simulation-based approaches in R.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n{{&lt; iconify fa6-solid:book &gt;}} Book\n\n\n\nEquivalence Testing\nIntroduces the rationale for equivalence testing, explains how it differs from NHST, and demonstrates how to perform and interpret equivalence tests in R using TOSTER.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides"
-  },
-  {
-    "objectID": "teaching.html#metascience",
-    "href": "teaching.html#metascience",
-    "title": "Teaching",
-    "section": "Metascience",
-    "text": "Metascience\n\nIntroduction to Meta-analysis\nIntroduces effect size estimation, model fitting in R, interpretation of results, heterogeneity, and publication bias.\n{{&lt; iconify fa6-solid:person-chalkboard &gt;}} Slides\n\n\n\nBias Detection in Meta-analysis\nCovers publication bias, selective reporting, and risk-of-bias assessment in R.\nComing soon."
   },
   {
     "objectID": "equivalence.html",
@@ -96,5 +656,439 @@
     "title": "Equivalence Testing",
     "section": "Overview",
     "text": "Overview\nThis lecture…"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#power",
+    "href": "talks/forrt-ai-conf/index.html#power",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Power",
+    "text": "Power\n\n\nfalse positive rate: the probability a test concludes there is an effect when there is no effect; Type I Error Rate\nalpha : the false positive rate we accept for a test\nfalse negative rate: the probability a test concludes there is no effect when there is one; Type II Error Rate\nbeta: the false negative rate we accept for a test\ntrue positive rate: the probability a test concludes there is an effect when there is one\npower: the true positive rate (1-beta), given a test, effect, sample size, and alpha"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#power-analysis",
+    "href": "talks/forrt-ai-conf/index.html#power-analysis",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Power analysis",
+    "text": "Power analysis\nStudies designed with high power are more informative:\n\nHigher probability of detecting the effect size of interest when it exists (i.e., higher true positive rate)\nA non-significant result is more informative because it is less likely to be due to insufficient power. For example, a non-significant result from a study designed with 90% power is more informative than one from a study designed with 50% power"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#types-of-power-analysis",
+    "href": "talks/forrt-ai-conf/index.html#types-of-power-analysis",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Types of Power Analysis",
+    "text": "Types of Power Analysis\n\n\n\nA Priori: calculates the required sample size to achieve a pre-specified power given a pre-specified effect size\nSensitivity (Effect Size): calculates the smallest effect size required to detect a pre-specified sample size with a pre-specified power\nSensitivity (Power): calculates power given a pre-specified effect size and sample size\nPost Hoc: calculates the power associated with the observed effect size and the sample size actually obtained"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#current-issues-in-power-analyses",
+    "href": "talks/forrt-ai-conf/index.html#current-issues-in-power-analyses",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Current issues in power analyses",
+    "text": "Current issues in power analyses\n\nMindlessly done (Schulz and Grimes 2005; Mesquida et al. 2025)\nInsufficient reporting (Mesquida et al. 2025; Bakker et al. 2020; Thibault et al. 2024)"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#reporting",
+    "href": "talks/forrt-ai-conf/index.html#reporting",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Reporting",
+    "text": "Reporting\n\npower type: a priori, power/sample size sensitivity, post hoc\npower: value between alpha and 100%\nsample size: number of subjects/items\neffect size: numeric value\neffect size metric: e.g., Cohen’s \\(d\\), \\(r\\), \\(\\eta_{p}^{2}\\), raw\nstatistical test: full specification\nalpha: 0-1, often assumed to be 0.05\nsoftware: e.g., G*Power, Superpower, simulation"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#section",
+    "href": "talks/forrt-ai-conf/index.html#section",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "",
+    "text": "How would you write up this power analysis?\n\npwr::pwr.t.test(          \n  power = 0.80,           \n  d = 0.5,                \n  sig.level = 0.01,       \n  type = \"two.sample\",    \n  alternative = \"greater\" \n)\n\n\n     Two-sample t test power calculation \n\n              n = 81.65515\n              d = 0.5\n      sig.level = 0.01\n          power = 0.8\n    alternative = greater\n\nNOTE: n is number in *each* group"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#model-reporting-example",
+    "href": "talks/forrt-ai-conf/index.html#model-reporting-example",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Model Reporting Example",
+    "text": "Model Reporting Example\n\nWe conducted an a priori analysis to determine the sample size with 80% power to detect the smallest effect size of interest (SESOI), which was a Cohen’s d of 0.5 determined by a cost-benefit analysis of the intervention. We used the pwr package (Champely, 2020) for an independent samples t-test, assuming equal variance and using a one-tailed prediction, with a critical alpha of 0.01. This determined that we would need 82 subjects in each group."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#the-reality",
+    "href": "talks/forrt-ai-conf/index.html#the-reality",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "The Reality",
+    "text": "The Reality\n\nA sample size of 22 participants was predetermined to yield a power of 80% and to detect an effect of comparable size to previous studies using similar independent and dependent measures (CITE)."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#the-reality-1",
+    "href": "talks/forrt-ai-conf/index.html#the-reality-1",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "The Reality",
+    "text": "The Reality\n\nWe decided to obtain a sample size that would allow us to detect a within-subjects difference of at least a medium effect size with 80% power, using a two-tailed t-test. A power analysis using G*Power (Version 3.1.9.3; Faul et al., 2007) indicated that this required a sample size of 34."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#the-solutions",
+    "href": "talks/forrt-ai-conf/index.html#the-solutions",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "The solutions",
+    "text": "The solutions\n\n\nDevelop reporting guidelines\nIncrease awareness through better training\nAdherence to reporting guidelines\n\n\n\n\nAutomation"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#metacheck",
+    "href": "talks/forrt-ai-conf/index.html#metacheck",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Metacheck",
+    "text": "Metacheck\n\nIt performs automated checks on manuscripts and repositories\n\n\n\nManuscripts: stat_effect_size, stat_p_nonsig, marginal, power, etc.\n\n\n\n\nRepositories: repo_check, code_check, data_check, etc."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#checking-for-power-analysis",
+    "href": "talks/forrt-ai-conf/index.html#checking-for-power-analysis",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Checking for power analysis",
+    "text": "Checking for power analysis\nThe power module can help researchers report all components of a power analysis.\n\nlibrary(metacheck)\nmodule_run(paper, \"power\")"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#regex-based-approach",
+    "href": "talks/forrt-ai-conf/index.html#regex-based-approach",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Regex-based approach",
+    "text": "Regex-based approach\nIt detects the type of power analysis using regular expressions (i.e., regex) only\n\npapers &lt;- papers_load(\"psychsci\")         # Load Psychological Science articles\nllm_use(FALSE)                            # Set to FALSE by default\nres &lt;- module_run(papers[100], \"power\")   # Run the power module\n\nres$table[, c(                            # Select relevant columns\n  \"section_type\", \n  \"power_type\"\n  )] |&gt; \n  flextable()\n\nsection_typepower_typemethodunknown"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#llm-based-approach",
+    "href": "talks/forrt-ai-conf/index.html#llm-based-approach",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "LLM-based approach",
+    "text": "LLM-based approach\nAn LLM is used to identify and extract the reported components of the power analysis\n\nllm_use(TRUE)                           # Set to TRUE to enable LLM\nllm_model(\"ollama/qwen2.5:3b\")          # Specify LLM model\nres &lt;- module_run(papers[110], \"power\") # Run the power module\n\n\nres$summary_table |&gt; \n  flextable()\n\npaper_idpower_npower_completepower_statistical_testpower_sample_sizepower_alpha_levelpower_powerpower_effect_sizepower_effect_size_metricpower_software0956797620984464222222222"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#first-match",
+    "href": "talks/forrt-ai-conf/index.html#first-match",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "First match",
+    "text": "First match\n\n# Select relevant columns\nres$table[1, c(\"power_type\", \"statistical_test\", \"sample_size\", \"alpha_level\", \"power\", \"effect_size\", \"effect_size_metric\", \"software\")] |&gt; \n  flextable()\n\npower_typestatistical_testsample_sizealpha_levelpowereffect_sizeeffect_size_metricsoftwareaprioriunpaired t-test360.050.80.5Cohen's dG*Power Version 3.1.9.2\n\n\n\n[…], we used a conservative effect size (d) of 0.5, an alpha of .05, and power of .8 for our sample-size computation (G*Power Version 3.1.9.2; Faul et al., 2007). The estimated sample size was 34 participants, but we used 36 […], which yielded a power estimate of .83."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#second-match",
+    "href": "talks/forrt-ai-conf/index.html#second-match",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Second match",
+    "text": "Second match\n\n# Select relevant columns\nres$table[2, c(\"power_type\", \"statistical_test\", \"sample_size\", \"alpha_level\", \"power\", \"effect_size\", \"effect_size_metric\", \"software\")] |&gt; \n  flextable()\n\npower_typestatistical_testsample_sizealpha_levelpowereffect_sizeeffect_size_metricsoftwareaprioriunpaired t-test480.0040.860.6Cohen's dG*Power\n\n\n\n[…], we used a medium effect size (d) of 0.6, an alpha of .004 (Bonferroni corrected for the current study), and power of .8 for our sample-size computation (G*Power Version 3.1.9.2; Faul et al., 2007). The estimated sample size was 33 participants, but to fit the counterbalancing, we recruited 48, which yielded a power estimate of .86."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#limitations-of-the-llm-based-approach",
+    "href": "talks/forrt-ai-conf/index.html#limitations-of-the-llm-based-approach",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Limitations of the LLM-based approach",
+    "text": "Limitations of the LLM-based approach\nEven LLMs struggle to identify information with inconsisting reporting\n\nTwo groups of 48 participants […].\nSample size was determined using […].\nA two-level factor manipulating fixation placement was added to create a 2 (initial fixation position: background, foreground) × 2 (presentation duration) × 2 (scene type: normal, chimera) × 3 (target condition: foreground, background, inconsistent control) within-subjects design."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#we-could-do-better",
+    "href": "talks/forrt-ai-conf/index.html#we-could-do-better",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "We Could Do Better",
+    "text": "We Could Do Better\nOnly 11% of 1295 power analyses from 1937 Psychological Science papers published between 2014 and 2026 have complete reporting.\n\n\n\n\n\nComponent\nPercent Missing\n\n\n\n\npower type\n0%\n\n\npower\n15%\n\n\nsample size\n19%\n\n\neffect size\n32%\n\n\neffect size metric\n28%\n\n\nstatistical test\n22%\n\n\nalpha\n67%\n\n\nsoftware\n71%\n\n\n\n\nPreliminary analysis using Metacheck, from Mesquida, Lakens & DeBruine (in prep)."
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#the-schema",
+    "href": "talks/forrt-ai-conf/index.html#the-schema",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "The schema",
+    "text": "The schema\n{\n  \"$schema\": \"https://json-schema.org/draft/2020-12/schema\",\n  \"$id\": \"https://scienceverse.org/schema/power.json\",\n  \"title\": \"Power Analyses\",\n  \"description\": \"A power analysis.\",\n  \"type\": \"object\",\n  \"properties\": {\n    \"text\": {\n      \"description\": \"The specific text that contains all of the information used to determine this object's properties.\",\n      \"type\": [\"string\", \"null\"]\n    },\n    \n    \"power_type\": {\n      \"description\": \" ... \",\n      \"type\": [\"string\", \"null\"],\n      \"enum\": [\"apriori\", \"sensitivity\", \"posthoc\", null]\n    },\n\n    \"statistical_test\": {\n      \"description\": \"The statistical test used. Use null if unclear.\",\n      \"type\": [\"string\", \"null\"],\n      \"enum\": [\n        \"paired t-test\",\n        \"unpaired t-test\",\n        \"one-sample t-test\",\n        \"1-way ANOVA\",\n        \"2-way ANOVA\",\n        ...\n        \"other\",\n        null\n      ]\n... \n    }"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#validation",
+    "href": "talks/forrt-ai-conf/index.html#validation",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Validation",
+    "text": "Validation\n\nCreated an over-inclusive ground-truth dataset using 250 articles from Psychological Science\nManually coded:\n\nWhether each matched statement was a power analysis\npower type, power,sample size, effect size, effect size metric, statistical test, alpha, software"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#validation-metrics",
+    "href": "talks/forrt-ai-conf/index.html#validation-metrics",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Validation metrics",
+    "text": "Validation metrics\n\n\n\n\n\n\n\n\n\n\nComponent\nAgree\nAccuracy\n\n\n\n\npower type\n165\n80%\n\n\nstatistical test\n159\n77%\n\n\nsample size\n173\n84%\n\n\nalpha\n201\n97%\n\n\npower\n194\n94%\n\n\neffect size metric\n193\n93%\n\n\neffect size\n189\n91%\n\n\nsoftware\n192\n93%"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#our-approach-to-validation",
+    "href": "talks/forrt-ai-conf/index.html#our-approach-to-validation",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Our approach to Validation",
+    "text": "Our approach to Validation\n\nTreat validation as a FAIR workflow\nRepeat validation after every release or update\nTransparently report validation metrics"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#metacheck-team",
+    "href": "talks/forrt-ai-conf/index.html#metacheck-team",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Metacheck team",
+    "text": "Metacheck team"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#reach-out",
+    "href": "talks/forrt-ai-conf/index.html#reach-out",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Reach out",
+    "text": "Reach out\nInterested in developing new modules?  Get in touch: c.mesquida.caldentey@tue.nl"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#thank-you",
+    "href": "talks/forrt-ai-conf/index.html#thank-you",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "Thank you!",
+    "text": "Thank you!\n  https://github.com/scienceverse/talks/tree/main/2026-forrt-ai-conf"
+  },
+  {
+    "objectID": "talks/forrt-ai-conf/index.html#references",
+    "href": "talks/forrt-ai-conf/index.html#references",
+    "title": "Improving the transparency of power analyses with Metacheck",
+    "section": "References",
+    "text": "References\n\n\n\n\nBakker, Marjan, Coosje L. S. Veldkamp, Olmo R. Van Den Akker, et al. 2020. “Recommendations in Pre-Registrations and Internal Review Board Proposals Promote Formal Power Analyses but Do Not Increase Sample Size.” PLOS ONE 15 (7): e0236079. https://doi.org/10.1371/journal.pone.0236079.\n\n\nMesquida, Cristian, Jennifer Murphy, Joe Warne, and Daniël Lakens. 2025. Prevalence, Reporting Practices, and Methodological Quality of a Priori Power Analyses in Sports and Exercise Science Research. July. https://doi.org/10.51224/SRXIV.575.\n\n\nSchulz, Kenneth F., and David A. Grimes. 2005. “Sample Size Calculations in Randomised Trials: Mandatory and Mystical.” The Lancet 365 (9467): 13481353. https://doi.org/10.1016/S0140-6736(05)61034-3.\n\n\nThibault, Robert T., Emmanuel A. Zavalis, Mario Malički, and Hugo Pedder. 2024. An Evaluation of Reproducibility and Errors in Published Sample Size Calculations Performed Using g*power. https://doi.org/10.1101/2024.07.15.24310458."
+  },
+  {
+    "objectID": "talks/ethical_research/slides.html",
+    "href": "talks/ethical_research/slides.html",
+    "title": "Ethical research should be credible research: Do researchers comply with the Declaration of Helsinki?",
+    "section": "",
+    "text": "Declaration of Helsinki\nInformative research vs. research waste\nTypes of research waste\nReasons for research waste\nPotential solutions"
+  },
+  {
+    "objectID": "talks/ethical_research/slides.html#section",
+    "href": "talks/ethical_research/slides.html#section",
+    "title": "Ethical research should be credible research: Do researchers comply with the Declaration of Helsinki?",
+    "section": "",
+    "text": "How many of you do know the content of the Declaration of Helsinki?"
+  },
+  {
+    "objectID": "talks/ethical_research/slides.html#section-1",
+    "href": "talks/ethical_research/slides.html#section-1",
+    "title": "Ethical research should be credible research: Do researchers comply with the Declaration of Helsinki?",
+    "section": "",
+    "text": "How many of you have declared to adhere to the Declaration of Helsinki?"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html",
+    "href": "talks/tue_conference/index.html",
+    "title": "Metacheck",
+    "section": "",
+    "text": "Applying quality management systems, such as ISO 9001\n\n\n\n\n\n\nWorkers are competent"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#a-key-requirement-of-iso-90012015-is-that",
+    "href": "talks/tue_conference/index.html#a-key-requirement-of-iso-90012015-is-that",
+    "title": "Metacheck",
+    "section": "",
+    "text": "Workers are competent"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#what-do-these-issues-have-in-common",
+    "href": "talks/tue_conference/index.html#what-do-these-issues-have-in-common",
+    "title": "Metacheck",
+    "section": "What do these issues have in common?",
+    "text": "What do these issues have in common?\n\n\nThey can be automatically detected"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#what-can-we-do-from-a-human-factor-perspective",
+    "href": "talks/tue_conference/index.html#what-can-we-do-from-a-human-factor-perspective",
+    "title": "Metacheck",
+    "section": "What can we do from a human factor perspective?",
+    "text": "What can we do from a human factor perspective?\n\n\nAutomation"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#automation-in-sofware-development",
+    "href": "talks/tue_conference/index.html#automation-in-sofware-development",
+    "title": "Metacheck",
+    "section": "Automation in sofware development",
+    "text": "Automation in sofware development\n\nAutomated checks are used to identify issues before release\nFor example, before submitting a package to CRAN, a battery of tests must be passed:\n\n\n\nCRAN is checking\n\n\n\n\n\npackage namespace information\n\n\n\n\n\n\npackage dependencies\n\n\n\n\n\n\npackage directory\n\n\n\n\n\n\nStatus: OK"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#cran-not-only-checks-for-warnings",
+    "href": "talks/tue_conference/index.html#cran-not-only-checks-for-warnings",
+    "title": "Metacheck",
+    "section": "CRAN not only checks for warnings",
+    "text": "CRAN not only checks for warnings\n\n\n✗ drawImage: no visible global function definition for ‘Axis’"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#but-also-provides-suggested-fixes",
+    "href": "talks/tue_conference/index.html#but-also-provides-suggested-fixes",
+    "title": "Metacheck",
+    "section": "But also provides suggested fixes",
+    "text": "But also provides suggested fixes\n\nReplace it with axis()"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#metacheck",
+    "href": "talks/tue_conference/index.html#metacheck",
+    "title": "Metacheck",
+    "section": "metacheck",
+    "text": "metacheck\n\nAn R package containing modules to automate checks in manuscripts\nEach module performs a certain task\nCombines text search, code, and large language models to assess adherence to — or deviations from — scientific best practices\nCan be applied to individual manuscripts or sets of manuscripts"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#metacheck-modules",
+    "href": "talks/tue_conference/index.html#metacheck-modules",
+    "title": "Metacheck",
+    "section": "metacheck modules",
+    "text": "metacheck modules\n\nknitr::include_graphics(\"figures/modules.png\")"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#marginal-module",
+    "href": "talks/tue_conference/index.html#marginal-module",
+    "title": "Metacheck",
+    "section": "marginal module",
+    "text": "marginal module\nmarginal detects statements about marginally significant results\n\n(res_marginal &lt;- module_run(psychsci[[13]], \"marginal\"))\n\nMarginal Significance: You described 1 effect with terms related to 'marginally significant'."
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#marginal-module-output",
+    "href": "talks/tue_conference/index.html#marginal-module-output",
+    "title": "Metacheck",
+    "section": "marginal module output",
+    "text": "marginal module output\n\nres_marginal$table\n\n# A tibble: 1 × 9\n  text     text_id paragraph_id section_id page_number formatted paper_id header\n  &lt;chr&gt;      &lt;int&gt;        &lt;int&gt;      &lt;int&gt;       &lt;int&gt; &lt;chr&gt;     &lt;chr&gt;    &lt;chr&gt; \n1 The Con…     110           22          7          NA The Cong… 0956797… Resul…\n# ℹ 1 more variable: section_type &lt;chr&gt;"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#stat_effect_size-module",
+    "href": "talks/tue_conference/index.html#stat_effect_size-module",
+    "title": "Metacheck",
+    "section": "stat_effect_size module",
+    "text": "stat_effect_size module\nstat_effect_size checks whether F-tests and t-tests have been reported with an effect size\n\n(res_stat &lt;- module_run(psychsci[[250]], \"stat_effect_size\"))\n\nEffect Sizes in t-tests and F-tests: We found 1 t-test and/or F-test where effect sizes are not reported. Check these tests in the table below, and consider adding effect sizes"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#stat_p_exact-module",
+    "href": "talks/tue_conference/index.html#stat_p_exact-module",
+    "title": "Metacheck",
+    "section": "stat_p_exact module",
+    "text": "stat_p_exact module\nstat_p_exact detects statements about imprecisely reported p-values\n\n(res_exact &lt;- module_run(psychsci[[110]], \"stat_p_exact\"))\n\nExact P-Values: We found 2 imprecise *p* values out of 54 detected *p* values."
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#stat_p_exact-module-output",
+    "href": "talks/tue_conference/index.html#stat_p_exact-module-output",
+    "title": "Metacheck",
+    "section": "stat_p_exact module output",
+    "text": "stat_p_exact module output\n\nres_exact$table |&gt; \n  filter(imprecise == TRUE) |&gt; \n  select(text, section_type, expanded)\n\n# A tibble: 2 × 3\n  text     section_type expanded                                                \n  &lt;chr&gt;    &lt;chr&gt;        &lt;chr&gt;                                                   \n1 p &lt; .002 results      To assess the foreground bias, we compared responses to…\n2 p &lt; .01  discussion   We found that although backgrounds were categorized sig…"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#batch-processing",
+    "href": "talks/tue_conference/index.html#batch-processing",
+    "title": "Metacheck",
+    "section": "Batch processing",
+    "text": "Batch processing\n\nres_exact &lt;- psychsci[3:4] |&gt; \n  module_run(\"stat_p_exact\")\n\nres_exact$summary_table[, c(1, 2)]\n\n          paper_id n_imprecise\n1 0956797614527830           2\n2 0956797614557697           8"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#module-chain",
+    "href": "talks/tue_conference/index.html#module-chain",
+    "title": "Metacheck",
+    "section": "Module chain",
+    "text": "Module chain\nMore than one module can be applied at once\n\nmodule_chain &lt;- psychsci[3:4] |&gt;  \n  module_run(\"marginal\") |&gt; \n  module_run(\"stat_p_exact\")\n\nmodule_chain$summary_table[, c(1:3)]\n\n          paper_id marginal n_imprecise\n1 0956797614527830        0           2\n2 0956797614557697        0           8"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#current-state-of-power-analysis-statements",
+    "href": "talks/tue_conference/index.html#current-state-of-power-analysis-statements",
+    "title": "Metacheck",
+    "section": "Current state of power analysis statements",
+    "text": "Current state of power analysis statements\n“A power analysis indicated that a sample size of 60 participants was required to achieve 80% power”\n\nPower analysis statements are often poorly reported\n\ne.g., what effect size was assumed?\ne.g., what statistical test was used?\n\nLack of transparency hinders reproducibility and scrutiny"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#no-llm",
+    "href": "talks/tue_conference/index.html#no-llm",
+    "title": "Metacheck",
+    "section": "No LLM",
+    "text": "No LLM\n\nllm_use(FALSE) \n\nres_power &lt;- module_run(psychsci[150], \"power\")\n\nres_power$table |&gt; \n  select(text, power_type)\n\n# A tibble: 1 × 2\n  text                                                                power_type\n  &lt;chr&gt;                                                               &lt;chr&gt;     \n1 Participants. Twenty-nine healthy volunteers (15 men and 14 women)… unknown"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#classification-result",
+    "href": "talks/tue_conference/index.html#classification-result",
+    "title": "Metacheck",
+    "section": "Classification result",
+    "text": "Classification result\nClassified as unknown because there is no information about the type of power analysis reported\n\nres_power$table$text[1]\n\n[1] \"Participants. Twenty-nine healthy volunteers (15 men and 14 women) with a mean age of 21.7 years (range = 19-25 years) participated in Experiment 1. All participants were undergraduate or graduate students from the University of Tokyo and were recruited by the research assistant (Hiroki Tarumi). We determined the sample sizes on the basis of our preliminary experiment (for details, see Section S1 in the Supplemental Material available online). To do so, we conducted a power analysis for a repeated measures analysis of variance (ANOVA) using G*Power (Version 3.1; Faul et al., 2007), which determined that a sample of 29 participants would be needed to detect an effect size (ηp² ) of .42 with power of .95 and α of .05. Written informed consent was obtained from all volunteers in accordance with the latest version of the Declaration of Helsinki.\""
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#llm-used-to-classify-inputs-and-return-results-in-a-structured-json-format",
+    "href": "talks/tue_conference/index.html#llm-used-to-classify-inputs-and-return-results-in-a-structured-json-format",
+    "title": "Metacheck",
+    "section": "LLM used to classify inputs and return results in a structured JSON format:",
+    "text": "LLM used to classify inputs and return results in a structured JSON format:\n{\n  \"power_type\": true,\n  \"statistical_test\": \"paired t-test\",\n  \"sample_size\": 20,\n  \"alpha_level\": 0.05,\n  \"power\": 0.8,\n  \"effect_size\": 0.4,\n  \"effect_size_metric\": \"Cohen's d\",\n  \"software\": \"G*Power\"\n}"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#with-llm-option",
+    "href": "talks/tue_conference/index.html#with-llm-option",
+    "title": "Metacheck",
+    "section": "With LLM option",
+    "text": "With LLM option\n\npaper &lt;- psychsci[150]\n\nllm_use(TRUE)\nllm_model(\"groq/openai/gpt-oss-120b\")\npower_results &lt;- module_run(paper, \"power\")\n\npower_results$table |&gt; \n  select(text, power_type:effect_size_metric) \n\n# A tibble: 1 × 9\n  text            power_type statistical_test statistical_test_other sample_size\n  &lt;chr&gt;           &lt;chr&gt;      &lt;chr&gt;            &lt;chr&gt;                        &lt;dbl&gt;\n1 Participants. … apriori    other            repeated measures ANO…          29\n# ℹ 4 more variables: alpha_level &lt;dbl&gt;, power &lt;dbl&gt;, effect_size &lt;dbl&gt;,\n#   effect_size_metric &lt;chr&gt;"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#section-5",
+    "href": "talks/tue_conference/index.html#section-5",
+    "title": "Metacheck",
+    "section": "",
+    "text": "The power module assesses the completeness of power analysis statements\n\npower_results$table$complete\n\n[1] TRUE"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#our-power-module-is-a-bit-of-a-wizard",
+    "href": "talks/tue_conference/index.html#our-power-module-is-a-bit-of-a-wizard",
+    "title": "Metacheck",
+    "section": "Our power module is a bit of a wizard",
+    "text": "Our power module is a bit of a wizard\npower can detect and classify several power analyses in a paragraph\n\npaper &lt;- psychsci[10]\n\nllm_use(TRUE)\nllm_model(\"groq/openai/gpt-oss-120b\")\npower_results &lt;- module_run(paper, \"power\")\n\nWarning: Note (not fatal): 1 of 3 LLM extractions failed and was left blank; the other 2 succeeded and all checks continued.\nRow 3: reason\n  HTTP 400 Bad Request.\nℹ Generated JSON does not match the expected schema. Please adjust your prompt.\n  See 'failed_generation' for more details. Error: jsonschema:\n  '/power_analyses/0/software' does not validate with\n  /properties/power_analyses/items/properties/software/type: expected string,\n  but got null\n  Provider says: Generated JSON does not match the expected schema. Please adjust your prompt. See 'failed_generation' for more details. Error: jsonschema: '/power_analyses/0/software' does not validate with /properties/power_analyses/items/properties/software/type: expected string, but got null\n\n\n\npower_results$table |&gt; \n  select(text, power_type, statistical_test, sample_size:power)\n\n# A tibble: 2 × 6\n  text                 power_type statistical_test sample_size alpha_level power\n  &lt;chr&gt;                &lt;chr&gt;      &lt;chr&gt;                  &lt;dbl&gt;       &lt;dbl&gt; &lt;dbl&gt;\n1 The sample size for… apriori    other                     24       0.002   0.8\n2 The sample size for… apriori    other                     72       0.05    0.8"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#metacheck-as-a-shiny-app",
+    "href": "talks/tue_conference/index.html#metacheck-as-a-shiny-app",
+    "title": "Metacheck",
+    "section": "metacheck as a shiny app",
+    "text": "metacheck as a shiny app\nmetacheck_app()\n\nknitr::include_graphics(\"figures/shiny.png\")"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#validation-of-metacheck-modules",
+    "href": "talks/tue_conference/index.html#validation-of-metacheck-modules",
+    "title": "Metacheck",
+    "section": "Validation of metacheck modules",
+    "text": "Validation of metacheck modules\n\nCreate ground-truth data sets\nModule validation\nValidation as a reproducible and reusable workflow\n\n\nknitr::include_graphics(\"figures/validation_workflow.png\")"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#module-validation-output",
+    "href": "talks/tue_conference/index.html#module-validation-output",
+    "title": "Metacheck",
+    "section": "Module validation output",
+    "text": "Module validation output\nValidation results of the marginal module\n\nknitr::include_graphics(\"figures/validation_marginal.png\")"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#miscitations",
+    "href": "talks/tue_conference/index.html#miscitations",
+    "title": "Metacheck",
+    "section": "Miscitations",
+    "text": "Miscitations\n\nknitr::include_graphics(\"figures/miscitation.png\")"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#miscitations-in-pyshcology",
+    "href": "talks/tue_conference/index.html#miscitations-in-pyshcology",
+    "title": "Metacheck",
+    "section": "Miscitations in pyshcology",
+    "text": "Miscitations in pyshcology\nCobb et al. (2024) found that out of 3,347 citations:\n\n~81% were accurate\n~9% failed to include important nuances of results\n~10% completely mischaracterized original findings"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#miscitation-module",
+    "href": "talks/tue_conference/index.html#miscitation-module",
+    "title": "Metacheck",
+    "section": "miscitation module",
+    "text": "miscitation module\n\nCreate a database of commonly miscited papers\nAuthors can log papers that are frequently miscited\nmiscitation detects citations included in the database and provides guidance on how it should be cited"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#reactance-and-trust-to-metacheck",
+    "href": "talks/tue_conference/index.html#reactance-and-trust-to-metacheck",
+    "title": "Metacheck",
+    "section": "Reactance and trust to metacheck",
+    "text": "Reactance and trust to metacheck\nAssess peer reactions to metacheck reports, with a focus on:\n\nTrust in automated assessments\nPerceived usefulness\nWillingness to use or adopt metacheck"
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#project-funder",
+    "href": "talks/tue_conference/index.html#project-funder",
+    "title": "Metacheck",
+    "section": "Project funder",
+    "text": "Project funder\nmetacheck is partly financed by the Dutch Research Council (NWO) via the Thematic Digital Competence Centre Social Sciences & Humanities (TDCC-SSH) as part of the project Research Transparency Check (ICT.001.TDCC.018) under the grant https://doi.org/10.61686/ENWVD61320."
+  },
+  {
+    "objectID": "talks/tue_conference/index.html#conference-funder",
+    "href": "talks/tue_conference/index.html#conference-funder",
+    "title": "Metacheck",
+    "section": "Conference funder",
+    "text": "Conference funder\nTU/e Center for Humans and Technology"
+  },
+  {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Employment",
+    "section": "",
+    "text": "Employment\n\n\nA tibble: 2 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2025-Present Postdoctoral rese… Eind…  2 Eindhoven University of Technology 2021-2025 PhD candidate Eind… \n\n\nEducation\n\n\nA tibble: 4 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2021-2025 PhD Eind…  2 University of Barcelona 2017-2019 MSc. Integrative Phy… Barc…  3 University of Granada 2015-2017 MSc. Research in Spo… Gran…  4 University of Vic 2009-2013 BSc. Sports and Exer… Vic,… \n\n\nPublications\n\n\n\n\n\nPreprints\n\n\n\n\n\nPapers in preparation\n\n\n\n\n\nTeaching Experience\nMy teaching portofolio can be found here\n\n\nA tibble: 6 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2025-Present Teacher of Advanc…   2 Eindhoven University of Technology 2025-Present Teacher of Behave…   3 Eindhoven University of Technology 2024-Present Teacher of Metasc…   4 Eindhoven University of Technology 2024 Teaching assistan…   5 Eindhoven University of Technology 2024 Teaching assistan…   6 Technological University of Dublin 2021 Teaching Assistan…  \n\n\nSupervision\n\n\nA tibble: 4 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2026 Supervisor of Master End…   2 Eindhoven University of Technology 2025 Supervisor of Master End…   3 Eindhoven University of Technology 2025 Supervisor of Bachelor E…   4 Eindhoven University of Technology 2024 Supervisor of Master End…  \n\n\nQualifications\n\n\nA tibble: 2 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2026 Start to Supervise The N…  2 Spanish Triahtlon Federation 2020 National Triathlon Coach Spain \n\n\nTalks\n\n\nA tibble: 12 × 5\nwhat when with where why\n     1 German Sport University Cologne 2026 Lunc…   2 FORRT 2026 FORR…   3 Oslo Nye Høyskole 2026 ONH …   4 Eindhoven University of Technology 2026 Tran…   5 Charles Sturt University 2025 Meta…   6 Open Research Summer School at King’s College London 2025 Work…   7 Danish Reproducibility Network 2025 Dani…   8 Eindhoven University of Technology 2025 Lunc…   9 University Medical Center Groningen 2024 NLRN…   10 Eindhoven University of Technology 2024 Paul…   11 Setanta College 2021-… Work…   12 Kumming Hiageng Physical Training Base 2019 Work…  \n\n\nGrants\n\n\nA tibble: 2 × 5\nwhat when with where why\n     1 Dutch Research Council 2026 Replication studies   2 Eindhoven University of Technology 2024 IE&IS ESA Education Inno…  \n\n\nConference organization\n\n\nA tibble: 1 × 5\nwhat when with where why\n     1 Eindhoven University of Technology 2026 Transparency, Technology… The … \n\n\nSkills\n\n\nA tibble: 5 × 5\nwhat when with where why\n    \n1 Advanced R    &lt;chr [1]&gt; 2 Basic Python    &lt;chr [1]&gt; 3 Medium Git/Github    &lt;chr [1]&gt; 4 Statistical analysis    &lt;chr [1]&gt; 5 Data management    &lt;chr [1]&gt;"
   }
 ]

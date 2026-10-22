@@ -34,7 +34,7 @@ readExcelsheets <- function(filename){
 }
 
 # read cv file
-filename <- "cv.xlsx"
+filename <- "cv_long.xlsx"
 readExcelsheets(filename)
 ```
 
@@ -82,6 +82,8 @@ bibliography_entries("in_progress.bib") %>%
 ```
 
 # Teaching Experience
+
+My teaching portofolio can be found [**here**](https://cristianmesquida.github.io/cris_blog/teaching.html)
 
 ```{r}
 
@@ -147,14 +149,12 @@ organization %>%
                    where = country)
 ```
 
-# References
+# Skills
 
 ```{r}
-references %>%
-  detailed_entries(what = institution, 
-                   with = reference,
-                   why = details,
-                   where = country)
+skills %>%
+  detailed_entries(what = skills, 
+                   why = details)
 ```
 
 ```{r, include=FALSE}

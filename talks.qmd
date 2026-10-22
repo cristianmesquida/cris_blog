@@ -2,23 +2,37 @@
 title: "Talks"
 format: html
 ---
+- **From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**. Lunch Talk, German Sport University Cologne (2026).
+
+<a href="talks/talk_Cologne/"
+   target="_blank">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
+- **Improving the transparency of power analyses with Metacheck**. FORRT AI in Metascience, online conference (2026).
+
+<a href="talks/forrt-ai-conf/"
+   target="_blank">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides
+</a>
+
 - **From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**. ONH Metascience Symposium, Oslo Nye Høyskole (2026).
 
-<a href="https://cristianmesquida.github.io/metascience_symposium_oslo/#/title-slide"
+<a href="talks/metascience_symposium_oslo/"
    target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
 - **Introduction to Metacheck**. Transparency, Technology and AI in Peer Review Conference, Eindhoven University of Technology (2026).
 
-<a href="https://cristianmesquida.github.io/technology_tue_conference_talk/#/title-slide"
+<a href="talks/tue_conference/"
    target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>
 
 - **Research waste in sports and exercise science**. Metascience series, Charles Sturt University (2025).
 
-<a href="https://cristianmesquida.github.io/ethical_research/slides.pdf"
+<a href="talks/ethical_research/"
    target="_blank">
   <i class="fa-solid fa-person-chalkboard"></i> Slides
 </a>

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.8.13)  13 AUG 2026 23:40
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.8.18)  22 OCT 2026 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -139,40 +139,40 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count289
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-07-20 L3 programming layer (loader) 
-(/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2026-07-20 L3 backend support: XeTeX
-\g__graphics_track_int=\count290
-\g__pdfannot_backend_int=\count291
-\g__pdfannot_backend_link_int=\count292
-))
-Package: xparse 2025-10-09 L3 Experimental document command parser
-)
-Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count293
-\l__fontspec_language_int=\count294
-\l__fontspec_strnum_int=\count295
-\l__fontspec_tmp_int=\count296
-\l__fontspec_tmpa_int=\count297
-\l__fontspec_tmpb_int=\count298
-\l__fontspec_tmpc_int=\count299
-\l__fontspec_em_int=\count300
-\l__fontspec_emdef_int=\count301
-\l__fontspec_strong_int=\count302
-\l__fontspec_strongdef_int=\count303
+Package: fontspec-xetex 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count290
+\l__fontspec_language_int=\count291
+\l__fontspec_strnum_int=\count292
+\l__fontspec_tmp_int=\count293
+\l__fontspec_tmpa_int=\count294
+\l__fontspec_tmpb_int=\count295
+\l__fontspec_tmpc_int=\count296
+\l__fontspec_em_int=\count297
+\l__fontspec_emdef_int=\count298
+\l__fontspec_strong_int=\count299
+\l__fontspec_strongdef_int=\count300
 \l__fontspec_tmpa_dim=\dimen164
 \l__fontspec_tmpb_dim=\dimen165
 \l__fontspec_tmpc_dim=\dimen166
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-07-20 L3 programming layer (loader) 
+(/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2026-07-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count301
+\g__pdfannot_backend_int=\count302
+\g__pdfannot_backend_link_int=\count303
+))
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 Package: unicode-math-xetex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
-(/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
@@ -921,7 +921,10 @@ Underfull \hbox (badness 2529) in paragraph at lines 221--221
 
 [1
 
-] [2] [3] [4] (./cv.aux)
+]
+LaTeX Font Info:    Font shape `TU/SourceSans3(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 345.
+[2] [3] [4] [5] (./cv.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
@@ -930,12 +933,12 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33364 strings out of 469767
- 685823 string characters out of 5466150
- 1270725 words of memory out of 5000000
- 61781 multiletter control sequences out of 15000+600000
- 632109 words of font info for 134 fonts, out of 8000000 for 9000
+ 33367 strings out of 469767
+ 685937 string characters out of 5466150
+ 1270767 words of memory out of 5000000
+ 61783 multiletter control sequences out of 15000+600000
+ 632117 words of font info for 135 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  131i,11n,136p,540b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (4 pages).
+Output written on cv.pdf (5 pages).
