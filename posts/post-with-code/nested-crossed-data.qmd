@@ -1,0 +1,64 @@
+---
+title: "Analysing Crossed and Nested Data with {lme4}"
+date: today
+code-fold: true
+code-summary: "Show the code"
+editor: visual
+---
+
+```{r}
+#| message: false
+
+library(faux)
+library(tidyverse)
+library(lme4)
+```
+
+## Introduction
+
+This blog post is intended to clarify the differences between **nested** and **crossed** data and how each should be analysed using mixed-effects models. It serves not only as a personal reference but also as a resource that I can share with students to help them understand these concepts. As usual, one of the best ways to understand a statistical concept is to simulate data.
+
+## Nested
+
+Data are nested when observations are grouped within larger units, such that obervations belonging to the same group may be correlated. For example, students may be grouped within classes, or patients treated may be treated by the same doctor. In these examples, students are nested within classes, and patients are nested within doctors. The students and patients are the lower-level observational units, whereas classes and doctors are the higher-level grouping units. At the same time, classes may be nested within schools, and doctors within hospitals. Observations from the same group may be more similar to one another than observations from different grouos. the common entity (level 1) is the class or the doctor, and level 2 are the students or patients.
+
+We first need to simulate the nested data.
+
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+
+# Define parameters
+student_n = 60     # number of subjects
+school_n = 10      # number of schools
+class_n = 3        # number of classes
+b0 = 6             # Intercept (overall mean)
+b1 = 1             # Fixed effect of condition
+u0_school_sd <- 1  # School random intercept SD
+u0_class_sd <- 1   # Class random intercept SD
+u1_class_sd <- 1   # Class random slope SD
+r01_class <- 0.5   # Correlation between class intercepts and slopes
+sigma_sd <- 2      # Residual SD
+
+data <- add_random(school = school_n) |> 
+  add_random(class = class_n, .nested_in = "school") |> 
+  add_random(students = student_n, .nested_in = "class") |> 
+  add_between("students", cond = c("A", "B")) |> 
+  add_recode("cond", "cond.t", A = 0, B = 1) |> 
+  add_ranef("school", u0s = u0_school_sd) |> 
+  add_ranef(
+    "class",
+    u0i = u0_class_sd,
+    u1i  = u1_class_sd,
+    .cors = r01_class
+  ) |> 
+  add_ranef(sigma = sigma_sd) |> 
+  # calculate DV
+  mutate(dv = b0 + u0s + u0i + (b1 + u1i) * cond.t + sigma)
+
+head(data, 5)
+```
+
+```{r}
+lmer(dv ~ cond.t + (1|school/class), data)
+```

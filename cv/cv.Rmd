@@ -76,14 +76,25 @@ bibliography_entries("my_preprints.bib") %>%
 
 # Papers in preparation
 
+These are manuscripts with an existing draft that are nearing release as preprints.
+
 ```{r}
 bibliography_entries("in_progress.bib") %>%
   arrange(issued)
 ```
 
+# Ongoing Projects
+
+These are ongoing research projects for which data collection is still underway or that are still at an early stage.
+
+```{r}
+bibliography_entries("projects.bib") %>%
+  arrange(issued)
+```
+
 # Teaching Experience
 
-My teaching portofolio can be found [**here**](https://cristianmesquida.github.io/cris_blog/teaching.html)
+My teaching portofolio can be found [**here**](https://cristianmesquida.github.io/cris_blog/teaching.html).
 
 ```{r}
 
@@ -119,6 +130,8 @@ qualifications %>%
 ```
 
 # Talks
+
+My talks and workshops can be found [**here**](https://cristianmesquida.github.io/cris_blog/talks.html).
 
 ```{r}
 talks %>%
@@ -156,6 +169,15 @@ skills %>%
   detailed_entries(what = skills, 
                    why = details)
 ```
+
+# Languages
+
+```{r}
+languages %>%
+  detailed_entries(what = language, 
+                   why = proficiency)
+```
+
 
 ```{r, include=FALSE}
 # save cv.pdf in a second location

@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.8.18)  22 OCT 2026 12:39
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.27)  27 OCT 2026 19:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv.tex
 (./cv.tex
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-07-20>
+L3 programming layer <2026-09-09>
 (./awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -160,7 +160,7 @@ Package: fontspec-xetex 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-07-20 L3 programming layer (loader) 
+Package: expl3 2026-09-09 L3 programming layer (loader) 
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2026-07-20 L3 backend support: XeTeX
 \g__graphics_track_int=\count301
@@ -379,7 +379,7 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/academicons/academicons.sty
-Package: academicons 2025/09/20 v1.9.6-2 Academicons Icons
+Package: academicons 2026/09/09 v1.9.6-3 Academicons Icons
 Missing character: There is no   (U+0020) in font [academicons.otf]/OT!
 Missing character: There is no   (U+0020) in font [academicons.otf]/OT!
 Missing character: There is no   (U+0020) in font [academicons.otf]/OT:language=dflt;!
@@ -643,7 +643,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
+Package: hyperref 2026-10-09 v7.01s Hypertext links for LaTeX
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -673,13 +673,13 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count346
 \Hy@pagecounter=\count347
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-10-09 v7.01s Hyperref: PDFDocEncoding definition (HO)
 ) (/Users/cristian/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count348
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-10-09 v7.01s Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4070.
 Package hyperref Info: Hyper figures OFF on input line 4199.
@@ -717,7 +717,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6121.
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (/Users/cristian/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2026-06-17 v7.01r Hyperref driver for XeTeX
+File: hxetex.def 2026-10-09 v7.01s Hyperref driver for XeTeX
 \pdfm@box=\box79
 \c@Hy@AnnotLevel=\count354
 \HyField@AnnotCount=\count355
@@ -922,23 +922,26 @@ Underfull \hbox (badness 2529) in paragraph at lines 221--221
 [1
 
 ]
+LaTeX Font Info:    Font shape `TU/SourceSans3(0)/m/n' will be
+(Font)              scaled to size 16.0pt on input line 377.
+[2]
 LaTeX Font Info:    Font shape `TU/SourceSans3(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 345.
-[2] [3] [4] [5] (./cv.aux)
+(Font)              scaled to size 10.95pt on input line 380.
+[3] [4] [5] (./cv.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-07-20>
+L3 programming layer <2026-09-09>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33367 strings out of 469767
- 685937 string characters out of 5466150
- 1270767 words of memory out of 5000000
- 61783 multiletter control sequences out of 15000+600000
- 632117 words of font info for 135 fonts, out of 8000000 for 9000
+ 33375 strings out of 469658
+ 686130 string characters out of 5463244
+ 1272185 words of memory out of 5000000
+ 61900 multiletter control sequences out of 15000+600000
+ 632885 words of font info for 135 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 131i,11n,136p,540b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,12n,136p,540b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv.pdf (5 pages).
